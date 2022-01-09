@@ -1,6 +1,6 @@
 # What Happen SG
 
-This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content from [/r/singapore subreddit](https://www.reddit.com/r/singapore/comments/rvm8qq/whats_happening_in_january_2022/).
+This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content from [/r/singapore subreddit](https://www.reddit.com/r/singapore/).
 
 <!-- START HAPPENING -->
 ## What's Happening in January 2022 ([thread](https://www.reddit.com/r/singapore/comments/rvm8qq/whats_happening_in_january_2022/))
