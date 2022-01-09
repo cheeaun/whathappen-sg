@@ -38,7 +38,7 @@ ${happeningResult.selftext.replace(/\B# /g, '### ')}`;
 const readmeContent = fs
   .readFileSync('README.md', 'utf8')
   .replace(
-    /<!-- START HAPPENING -->(.*)<!-- END HAPPENING -->/g,
+    /<!-- START HAPPENING -->.*<!-- END HAPPENING -->/s,
     `<!-- START HAPPENING -->\n${text}\n<!-- END HAPPENING -->`,
   );
 fs.writeFileSync('README.md', readmeContent);
