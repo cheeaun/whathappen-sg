@@ -1,0 +1,26 @@
+name: Update happenings
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1,7,14,21 * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+      - env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+        run: |-
+          npm ci
+          npm run happenings
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          timestamp=$(date -u)
+          git add -A
+          git commit -m "Happenings: ${timestamp}" || exit 0
+          git push

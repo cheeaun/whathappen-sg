@@ -1,0 +1,14 @@
+{
+  "name": "whathappen-sg",
+  "version": "1.0.0",
+  "description": "What's happening in Singapore",
+  "scripts": {
+    "happenings": "node fetch-happenings.mjs"
+  },
+  "author": "Lim Chee Aun <cheeaun@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "~10.0.0",
+    "snoowrap": "~1.23.0"
+  }
+}
