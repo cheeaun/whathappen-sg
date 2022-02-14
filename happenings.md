@@ -2,7 +2,6 @@
 
 |DATE|CATEGORY|EVENT|VENUE|PRICE|ADDITIONAL INFO|
 |:-|:-|:-|:-|:-|:-|
-|Till 6 Feb|Nature|[River Hongbao](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/river-hongbao-2022.html)|Gardens by the Bay|Free||
 |12 Feb|CNY|[Chingay Parade 2022](https://www.chingay.gov.sg/)|Online|Free||
 |Till 13 Feb|CNY|[Leap into Fun at Universal Studios Singapore](https://www.rwsentosa.com/en/attractions/universal-studios-singapore/promotions-and-events/leap-into-fun)|Universal Studios|From $58||
 |Till 20 Feb|Nature; CNY|[Dahlia Dreams at Gardens by the Bay](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/dahlia-dreams-2022.html)|Gardens by the Bay|$12||
@@ -15,7 +14,6 @@
 
 |DATE|CATEGORY|EVENT|VENUE|PRICE|ADDITIONAL INFO|
 |:-|:-|:-|:-|:-|:-|
-|Till 3 Feb|Art|[Light to Night Festival](https://www.nationalgallery.sg/lighttonight/)|The Arts House|Free||
 |Till 23 Feb|Kids, Family|[Mickey & Friends’ The Joy of Festival](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/xm-x-disney-joy-of-festival.html)|Gardens by the Bay|$10||
 |Till 25 Feb|Theatre|[Miss Julie](https://www.srt.com.sg/show/miss-julie)|KC Arts Centre – Home of SRT|From $45||
 |Till 27 Feb|Exhibition|[Spacewalkers](https://www.marinabaysands.com/museum/exhibitions/spacewalkers.html)|Art Science Museum|$16||
@@ -30,22 +28,6 @@
 
 |DATE|CATEGORY|EVENT|VENUE|PRICE|ADDITIONAL INFO|
 |:-|:-|:-|:-|:-|:-|
-|1 & 2 Feb|Music|[Stargaze](https://www.esplanade.com/festivals-and-series/cool-classics/2022/stargaze?Start=20220201&End=20220202)|Esplanade Outdoor Theatre|Free||
-|3 Feb|Music|[Songs for the Soul](https://www.esplanade.com/festivals-and-series/cool-classics/2022/songs-for-the-soul?Start=20220203&End=20220204)|Esplanade Concourse|Free||
-|4 Feb|Music|[Opera Weekend: Heroes, Lovers, Villains and Sidekicks](https://www.esplanade.com/festivals-and-series/cool-classics/2022/opera-weekend-heroes-lovers-villains-and-sidekicks?Start=20220204&End=20220205)|Esplanade Concourse|Free||
-|4 Feb|Workshop|[Baking from Scratch 101](https://www.eventbrite.sg/e/baking-from-scratch-101-tickets-152141825295?keep_tld=1)|Online|Free||
-|4 Feb - 3rd March|Exhibition|[Encounter Between Three Worlds](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/encounter-between-three-worlds.html)|Gardens by the Bay|$12||
-|5 Feb|Festival|[ONLINE DANCE PARTY](https://www.eventbrite.sg/e/online-dance-party-free-on-zoom-tickets-220189160707?keep_tld=1)|Online|Free||
-|5 Feb|Music|[CANDLELIGHT: BEST OF CHINESE DRAMA SOUNDTRACKS AND MORE](https://www.vtvch.com/event-details/candlelight-best-of-chinese-drama-feb)|Victoria Concert Hall|$77||
-|5 Feb|Music|[Opera Weekend: Opera Arias for Voice and Wind Ensemble](https://www.esplanade.com/festivals-and-series/cool-classics/2022/opera-weekend-opera-arias-for-voice-and-wind-ensemble?Start=20220205&End=20220206)|Esplanade Concourse|Free||
-|5 Feb|Music|[Carnatic Tales](https://www.esplanade.com/festivals-and-series/cool-classics/2022/carnatic-tales?Start=20220205&End=20220206)|Esplanade Outdoor Theatre|Free||
-|5 Feb|Exhibition|[The Silver Lining: A Celebration of Nature in the Time of Pandemic](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/the-silver-lining.html)|Gardens by the Bay|$1||
-|5 Feb|Tour|[Crouching Tiger, Hidden Dragon Chinatown Walking Tour](https://www.eventbrite.sg/e/crouching-tiger-hidden-dragon-chinatown-walking-tour-tickets-234709421197?aff=ebdssbdestsearch)|Chinatown|From $37.74||
-|6 Feb|Workshop|[Indian Performing Arts Convention - Symposium on Bharatanatyam](https://www.esplanade.com/festivals-and-series/raga/2022/indian-performing-arts-convention-symposium-on-bharatanatyam?Start=20220206&End=20220207)|Esplanade Theatre Studio|Online $20: Offline: $30||
-|6 Feb|Theatre; Children|[The Universe According to Niu – Puppetry Production for Children](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/the-universe-according-to-niu-puppetry-production-for-children?Start=20220206&End=20220207)|Online|$10||
-|6 Feb|Music|[Happy Lunisolar Beats](https://www.esplanade.com/festivals-and-series/cool-classics/2022/happy-lunisolar-beats?Start=20220206&End=20220207)|Esplanade Outdoor Theatre|Free||
-|6 Feb|Music|[re: mix "Turning The Page"](https://www.esplanade.com/events/2022/re-mix-turning-the-page?Start=20220206&End=20220207)|Esplanade Recital Studio|$25||
-|7 Feb|Music|[Spectrum Platform: Juxtapose](https://www.esplanade.com/festivals-and-series/cool-classics/2022/spectrum-platform-juxtapose?Start=20220207&End=20220208)|Esplanade Concourse|Free||
 |10 Feb|Music|[CANDLELIGHT: TCHAIKOVSKY'S BEST WORKS FT. BALLET](https://www.vtvch.com/event-details/candlelight-tchaikovsky-s-swan-lake-more-ft-ballet-feb)|Victoria Concert Hall|$77||
 |11 Feb|Dance|[Dance en Scene](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/dance-en-scene?Start=20220211&End=20220212)|Online|Free||
 |11 Feb|Dance|[Huayi Huat Opening!](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/huayi-huat-opening?Start=20220211&End=20220212)|Esplanade Outdoor Theatre|Free||
@@ -56,6 +38,7 @@
 |11 - 12 Feb|Comedy|[LICENSE TO LAUGH with PREM JOHN: Stand Up Comics At The CASTLE Show](https://www.eventbrite.sg/e/license-to-laugh-with-prem-john-stand-up-comics-at-the-castle-show-tickets-253753532647?aff=ebdssbdestsearch)|Goodman Arts Centre|$42.13||
 |11 - 13 Feb|Theatre|[Every Brilliant Thing](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/every-brilliant-thing?Start=20220212&End=20220213)|Esplanade Theatre Studio|$38||
 |12 Feb|Music|[CANDLELIGHT: A TRIBUTE TO TAYLOR SWIFT](https://www.vtvch.com/event-details/candlelight-a-tribute-to-taylor-swift)|Victoria Concert Hall|From $46||
+|12 Feb|Tour|[An exclusive insight to the Vanishing Trades of Singapore](https://www.heygo.com/tours/vanishing-trades-of-singapore)||||
 |12 Feb|Music|[Gather Your Kakis!](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/gather-your-kakis?Start=20220212&End=20220213)|Esplanade Concourse|Free||
 |12 feb|Music|[VCHPRESENTS ORGAN: DANIEL MOULT - THE ENGLISH CONNECTION](https://www.vtvch.com/event-details/vchpresents-organ-daniel-moult-the-english-connection)|Victoria Concert Hall|$5||
 |12 Feb|Comedy|[F\*\*K, Marry, Kill: A Blind Dating Game Show](https://www.eventbrite.sg/e/fk-marry-kill-a-blind-dating-game-show-tickets-255047793817?aff=ebdssbdestsearch)|Arab Street|From $32.50||
