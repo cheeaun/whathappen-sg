@@ -3,17 +3,13 @@
 This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content from [/r/singapore subreddit](https://www.reddit.com/r/singapore/).
 
 <!-- START HAPPENING -->
-## What's Happening in February 2022? ([thread](https://www.reddit.com/r/singapore/comments/sdorrf/whats_happening_in_february_2022/))
+## What's Happening in March 2022 ([thread](https://www.reddit.com/r/singapore/comments/sz7tec/whats_happening_in_march_2022/))
 
-### Festive Events
+### Festive
 
-|DATE|CATEGORY|EVENT|VENUE|PRICE|ADDITIONAL INFO|
-|:-|:-|:-|:-|:-|:-|
-|12 Feb|CNY|[Chingay Parade 2022](https://www.chingay.gov.sg/)|Online|Free||
-|Till 13 Feb|CNY|[Leap into Fun at Universal Studios Singapore](https://www.rwsentosa.com/en/attractions/universal-studios-singapore/promotions-and-events/leap-into-fun)|Universal Studios|From $58||
-|Till 20 Feb|Nature; CNY|[Dahlia Dreams at Gardens by the Bay](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/dahlia-dreams-2022.html)|Gardens by the Bay|$12||
-|Till 28 Feb|Workshop; CNY|[Wan Qing Festival of Spring 2022](https://www.sysnmh.org.sg/en/whats-on/events/wan-qing-festival-of-spring-2021)|Sun Yat Sen Nanyang Memorial Hall|Free||
-|||||||
+|8 March|International Women's Day|
+|:-|:-|
+|17 March|Saint Patrick's Day|
 
 &#x200B;
 
@@ -21,73 +17,63 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 
 |DATE|CATEGORY|EVENT|VENUE|PRICE|ADDITIONAL INFO|
 |:-|:-|:-|:-|:-|:-|
-|Till 23 Feb|Kids, Family|[Mickey & Friends’ The Joy of Festival](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/xm-x-disney-joy-of-festival.html)|Gardens by the Bay|$10||
-|Till 25 Feb|Theatre|[Miss Julie](https://www.srt.com.sg/show/miss-julie)|KC Arts Centre – Home of SRT|From $45||
-|Till 27 Feb|Exhibition|[Spacewalkers](https://www.marinabaysands.com/museum/exhibitions/spacewalkers.html)|Art Science Museum|$16||
-|Till 27 Feb|Exhibition|[ArtScience on Screen: Beyond Earth](https://www.marinabaysands.com/museum/events/asos-beyond-earth.html)|Art Science Museum|Free||
-|Till 27 Feb|Workshop|[Couple's Perfume Workshop](https://www.sistic.com.sg/events/cper2016)|Goodman Arts Centre|||
-|Till 28 Feb|Exhibition|[A Voyage of Love and Longing](https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list/a-voyage-of-love-and-longing)|National Museum of Singapore|Free||
+|Mondays & Tuesdays|Comedy; R18|[A WEARABLE COMMOTION](https://theprojector.sg/films-and-events/a-wearable-commotion/)|The Projector|$36||
 |Till 22 March 2022|Exhibition|[Pop Up Disney](https://www.disney.sg/pop-up-disney)|Suntec Convention Centre|From $25||
 |Till 26 Mar|Theatre|[The Secret Life of Haw Par Villa \[Advisory - Some Disturbing Content\]](https://www.sistic.com.sg/events/secret0322)|Haw Par Villa|$59||
+|Till 27 Mar|Exhibition|[Nam June Paik: The Future is Now](https://www.nationalgallery.sg/see-do/programme-detail/430762566/nam-june-paik-the-future-is-now)|National Gallery|From $15||
+|Till 1 Apr|Exhibition|[THE LIVES OF WOMEN: What will life be like for women in Singapore in 2050?](https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list/scwo)|National Museum of Singapore|Free||
+|Till 9 Apr|Workshop|[Konnichiwa, Kyoto!](https://www.nhb.gov.sg/acm/whats-on/events/konnichiwa-kyoto)|Asian Civilisation Museum|Free for most Programmes||
 |Till 29 May|Exhibition|[Dislocations: Memory & Meaning of the Fall of Singapore, 1942](https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list/dislocations)|National Museum of Singapore|Free||
+|Till 10 Jul|Exhibition|[Radical Curiosity: In the Orbit of Buckminster Fuller](https://www.marinabaysands.com/museum/exhibitions/radical-curiosity.html?gclsrc=aw.ds&gclid=EAIaIQobChMI-Kft1_OU9gIVXZpmAh28eQR4EAAYASAAEgIiEfD_BwE)|ArtScience Museum|$16||
+|Till 31 Jul|Exhibition; Family|[Weird But True! Exhibition](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nat-geo-weird-but-true.html)|Cloud Forest, Gardens by the Bay|$12||
 
 ### Upcoming Events
 
 |DATE|CATEGORY|EVENT|VENUE|PRICE|ADDITIONAL INFO|
 |:-|:-|:-|:-|:-|:-|
-|10 Feb|Music|[CANDLELIGHT: TCHAIKOVSKY'S BEST WORKS FT. BALLET](https://www.vtvch.com/event-details/candlelight-tchaikovsky-s-swan-lake-more-ft-ballet-feb)|Victoria Concert Hall|$77||
-|11 Feb|Dance|[Dance en Scene](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/dance-en-scene?Start=20220211&End=20220212)|Online|Free||
-|11 Feb|Dance|[Huayi Huat Opening!](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/huayi-huat-opening?Start=20220211&End=20220212)|Esplanade Outdoor Theatre|Free||
-|11 Feb|Music|[Joyful Harvest with Rit Xu Trio](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/joyful-harvest-with-rit-xu-trio?Start=20220211&End=20220212)|Esplanade Concourse|Free||
-|11 Feb|Dance|[Strings Meet Street](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/strings-meet-street?Start=20220211&End=20220212)|Esplanade Outdoor Theatre|Free||
-|11 Feb|Music|[CANDLELIGHT: KOREAN DRAMAS SONATA](https://www.vtvch.com/event-details/candlelight-korean-dramas-feb)|Victoria Concert Hall|From $46||
-|11-13, 18-19 Feb|Theatre|[Between You and Me](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/between-you-and-me?Start=20220211&End=20220212)|Esplanade Theatre|From $38||
-|11 - 12 Feb|Comedy|[LICENSE TO LAUGH with PREM JOHN: Stand Up Comics At The CASTLE Show](https://www.eventbrite.sg/e/license-to-laugh-with-prem-john-stand-up-comics-at-the-castle-show-tickets-253753532647?aff=ebdssbdestsearch)|Goodman Arts Centre|$42.13||
-|11 - 13 Feb|Theatre|[Every Brilliant Thing](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/every-brilliant-thing?Start=20220212&End=20220213)|Esplanade Theatre Studio|$38||
-|12 Feb|Music|[CANDLELIGHT: A TRIBUTE TO TAYLOR SWIFT](https://www.vtvch.com/event-details/candlelight-a-tribute-to-taylor-swift)|Victoria Concert Hall|From $46||
-|12 Feb|Tour|[An exclusive insight to the Vanishing Trades of Singapore](https://www.heygo.com/tours/vanishing-trades-of-singapore)||||
-|12 Feb|Music|[Gather Your Kakis!](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/gather-your-kakis?Start=20220212&End=20220213)|Esplanade Concourse|Free||
-|12 feb|Music|[VCHPRESENTS ORGAN: DANIEL MOULT - THE ENGLISH CONNECTION](https://www.vtvch.com/event-details/vchpresents-organ-daniel-moult-the-english-connection)|Victoria Concert Hall|$5||
-|12 Feb|Comedy|[F\*\*K, Marry, Kill: A Blind Dating Game Show](https://www.eventbrite.sg/e/fk-marry-kill-a-blind-dating-game-show-tickets-255047793817?aff=ebdssbdestsearch)|Arab Street|From $32.50||
-|12 Feb - Sept|Music|[PopLore](http://www.esplanade.com/poplore)|Esplanade|Various||
-|12, 13, 19, 20|Workshop; Children|[Recreating possibilities: Make-Your-Own Zodiac Animal Stick Puppet and Document Peg](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/recreating-possibilities-make-your-own-zodiac-animal-stick-puppet-and-document-peg?Start=20220212&End=20220213)|PIP's PLAYbox|Free||
-|12 Feb - 3 Jul|Exhibition|[Hope from Chaos: Pandemic Reflection](https://www.marinabaysands.com/museum/exhibitions/hope-from-chaos-pandemic-reflections.html)|Art Science Museum|$6||
-|13 Feb|Music|[Poetic Harmony](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/poetic-harmony?Start=20220213&End=20220214)|Esplanade Concourse|Free||
-|13 Feb|Dance|[Songs of Spring](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/songs-of-spring?Start=20220213&End=20220214)|Esplanade Outdoor Theatre|Free||
-|13 - 14 Feb|Music|[CANDLELIGHT: MAGICAL MOVIE SOUNDTRACKS](https://www.vtvch.com/event-details/candlelight-magical-movie-soundtrack-feb)|Victoria Concert Hall|From $46||
-|14 Feb|Music|[Pandemic Blues](https://www.esplanade.com/events/2022/pandemic-blues?Start=20220214&End=20220215)|Esplanade Recital Studio|$90||
-|14 - 15 Feb|Comedy|[ATTIC OF MAGIC](https://www.eventbrite.sg/e/attic-of-magic-tickets-246994696787?aff=ebdssbdestsearch)|Arab Street|From $84.86||
-|15 Feb|Comedy|[What's Your Story Slam Showdown](https://www.eventbrite.sg/e/whats-your-story-slam-showdown-830pm-tickets-239740419047?aff=ebdssbdestsearch)|Projector|From $50||
-|17 Feb|Music|[Our Theme Songs](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/our-theme-songs?Start=20220217&End=20220218)|Esplanade Concourse|Free||
-|18 - 19 Feb|Dance|[SIDES 2021](https://www.sistic.com.sg/events/SIDES2021)|SOTA Studio Theatre|$38||
-|18 - 20 Feb|Dance|[If It's Now](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/if-its-now?Start=20220218&End=20220219)|Esplanade Annexe Studio|$38||
-|18 Feb|Music|[Groove with Morse](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/groove-with-morse?Start=20220218&End=20220219)|Esplanade Outdoor Theatre|Free||
-|18 Feb|Music|[TEMASEK FOUNDATION SSO BAROQUE FESTIVAL – BACH, THE BEGINNING AND END](https://www.vtvch.com/event-details/temasek-foundation-sso-baroque-festival-bach-the-beginning-and-end)|Victoria Concert Hall|From $20||
-|19 Feb - 3 Jul|Exhibition|[Attack On Titan: The Exhibition](https://www.marinabaysands.com/museum/exhibitions/attack-on-titan.html)|Art Science Museum|From $18||
-|19 Feb|Music|[We are Singer-songwriters! • J2S](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/we-are-singer-songwriters-j2s?Start=20220219&End=20220220)|Esplanade Concourse|Free||
-|19 Feb|Music|[5lements – A Confluence of Chinese Chamber Music and the Five Elements](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/5lements-a-confluence-of-chinese-chamber-music-and-the-five-elements?Start=20220219&End=20220220)|Esplanade Concert Hall|From $38||
-|19 Feb|Music|[TEMASEK FOUNDATION SSO BAROQUE FESTIVAL – MUSIC FROM GEORGIAN ENGLAND](https://www.vtvch.com/event-details/temasek-foundation-sso-baroque-festival-music-from-georgian-england)|Victoria Concert Hall|From $20||
-|19 - 20 Feb|Music; Dance|[Spanish Resonances: Harp and Spanish Dance](https://www.esplanade.com/events/2022/spanish-resonances-harp-and-spanish-dance?Start=20220219&End=20220220)|Esplanade Recital Studio|$35||
-|20 Feb|Music|[Harmonica Romance](https://www.esplanade.com/festivals-and-series/huayi-chinese-festival-of-arts/2022/harmonica-romance?Start=20220220&End=20220221)|Esplanade Concourse|Free||
-|21 Feb|Music|[A Schubert Lieder Special: Nature](https://www.esplanade.com/festivals-and-series/munch-lunchtime-concert-series/2022/a-schubert-lieder-special-nature?Start=20220221&End=20220222)|Esplanade Concourse|$10||
-|21 - 23 Feb|Music|[Lunchtime Concerts with Students of NAFA, School of Music](https://www.esplanade.com/festivals-and-series/cool-classics/2022/lunchtime-concerts-with-students-of-nafa-school-of-music?Start=20220221&End=20220222)|Esplanade Concourse|Free||
-|22 Feb|Music|[A Schubert Lieder Special: Death](https://www.esplanade.com/festivals-and-series/munch-lunchtime-concert-series/2022/a-schubert-lieder-special-death?Start=20220222&End=20220223)|Esplanade Concert Hall|$10||
-|23 Feb|Music|[A Schubert Lieder Special: Love](https://www.esplanade.com/festivals-and-series/munch-lunchtime-concert-series/2022/a-schubert-lieder-special-love?Start=20220223&End=20220224)|Esplanade Concert Hall|$10||
-|23 Feb|Music|[Music X Literature: Radostin Kirchev and Skaidrite Rakovska](https://www.esplanade.com/festivals-and-series/cool-classics/2022/music-x-literature-radostin-kirchev-and-skaidrite-rakovska?Start=20220223&End=20220224)|Esplanade Concourse|Free||
-|25 Feb|Music|[Band Weekend: Classical Remix!](https://www.esplanade.com/festivals-and-series/cool-classics/2022/band-weekend-classical-remix?Start=20220225&End=20220226)|Esplanade Outdoor Theatre|Free||
-|25 Feb|Music|[PLAYtime! Catch a Breath](https://www.esplanade.com/festivals-and-series/playtime/2022/playtime-catch-a-breath?Start=20220226&End=20220227)|Esplanade Theatre Studio|$20||
-|25 - 26 Feb|Music|[SSO-FRCS Joint Fundraising Concert: Serenades with Andrew Litton and Chloë Hanslip](https://www.sistic.com.sg/events/220081SSO)|Victora Concert Hall|From $15||
-|26 Feb|Dance|[NIRMANIKA REIMAGINED](https://www.vtvch.com/event-details/nirmannika-feb)|Victoria Theatre|From $45||
-|26 Feb|Music|[Band Weekend: Thomson Big Band](https://www.esplanade.com/festivals-and-series/cool-classics/2022/band-weekend-thomson-big-band?Start=20220226&End=20220227)|Esplanade Outdoor Theatre|Free||
-|28 Feb|Music|[Spectrum Platform: Sleep?](https://www.esplanade.com/festivals-and-series/cool-classics/2022/spectrum-platform-sleep?Start=20220228&End=20220301)|Esplanade Concourse|Free||
+|2 - 3 March|Music|[CANDLELIGHT: A TRIBUTE TO COLDPLAY](https://www.vtvch.com/event-details/candlelight-a-tribute-to-coldplay-mar)|Victoria Concert Hall|$77||
+|3 March|Music|[An Unforgettable Evening](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/an-unforgettable-evening?Start=20220214)|Esplanade Concourse|Free||
+|3 March|Film|[Who are the #elderswithstyle?](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/who-are-the-elderswithstyle?Start=20220214)|Esplanade & Online|Free||
+|3 March|Music|[Songs of the Yesteryears](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/songs-of-the-yesteryears?Start=20220214)|Esplanade Outdoor Theatre|Free||
+|3 March|Music|[Blast from the Past](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/blast-from-the-past?Start=20220303&End=20220304)|Esplanade Concert Hall|$35||
+|3 - 5 March|Dance|[VECTOR#2: DYADS](https://www.esplanade.com/events/2022/vector2-dyads?Start=20220214)|Esplanade|$25||
+|4 March|Music|[Cantopop Classics](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/cantopop-classics?Start=20220214)|Esplanade Outdoor Theatre|Free||
+|4 March|Music|[Heroes of Nostalgia](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/heroes-of-nostalgia?Start=20220214)|Esplanade Concourse|Free||
+|4 March|Music|[CANDLELIGHT: A TRIBUTE TO JAY CHOU](https://www.vtvch.com/event-details/candlelight-a-tribute-to-jay-chou)|Victoria Concert Hall|$77||
+|4 - 5 March|Film|[The Last Artisan](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/the-last-artisan-screening?Start=20220304&End=20220305)|Esplanade Recital Studio|Free||
+|4 - 5 March|Film|[$4000](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/4000-screening?GenreNames=Film&Start=20220223)|Esplanade Recital Studio|Free||
+|4 - 5 March|Music|[Resonating Russia](https://www.vtvch.com/event-details/resonating-russia)|Victoria Concert Hall|From $15||
+|4 Mar - 1 Apr|Music|[Lunchtime Concerts at ACM](https://www.nhb.gov.sg/acm/whats-on/events/lunchtime-concerts-mar-to-apr-2022)|Asian Civilisation Musem|Free|Registration required|
+|4 Mar - 3 Apr|Nature; Family|[Sakura featuring tokidoki](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/sakura-2022.html)|Gardens By the Bay|$12||
+|5 March|Music|[Party Tonight!](https://www.esplanade.com/festivals-and-series/a-date-with-friends/2022/party-tonight?GenreNames=Music&Start=20220223)|Esplanade Outdoor Theatre|Free||
+|5 March|Music|[CANDLELIGHT: A TRIBUTE TO TAYLOR SWIFT](https://www.vtvch.com/event-details/candlelight-a-tribute-to-taylor-swift-mar)|Victoria Concert Hall|$77||
+|5 March|Health; Seniors|[Eat Well, Live Well Time of Your Life](https://www.eventbrite.sg/e/eat-well-live-well-time-of-your-life-registration-263580044007?aff=ebdssbdestsearch)|Bedok Public Library|Free||
+|5, 13, 19, 27|Sport|[Mid Morning Yoga](https://www.eventbrite.sg/e/mid-morning-yoga-tickets-144948953221?aff=ebdssbdestsearch)|Fort Canning Park|$5|Limited Slots|
+|5, 12 & 19 March|Workshop|[Sakura Cultural Programmes](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/sakura-cultural-programmes.html)|Various|Free||
+|6 March|Film|[Swiss Weeks 2022 Film Screening: Heidi](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/swiss-weeks-2022.html)|Gardens By the Bay|Free|Pre-registration required|
+|8 March|Art; Workshop|[Caricature Drawing Course](https://www.eventbrite.sg/e/caricature-drawing-course-nt20220308cdc-tickets-235207280307?aff=ebdssbdestsearch)|Brahm Centre @ Newton|From $56||
+|10 - 11 March|Theatre|[Queen: It's a Kinda Magic International Concert \[G\]](https://www.sistic.com.sg/events/queen0322)|MBS Theatre|From $70||
+|11 March|Dating; Singles|[Singapore Video Speed Dating](https://www.eventbrite.sg/e/singapore-video-speed-dating-filter-off-tickets-106376916220?aff=ebdssbdestsearch&keep_tld=1)|Online|Free||
+|11 - 13 March|Theatre|[I Have Something to Say](https://www.esplanade.com/festivals-and-series/march-on/2022/i-have-something-to-say?GenreNames=Theatre&Start=20220223)|Esplanade Theatre|$40||
+|12 March|Shopping|[THE BUB FAIR Bloom Edition](https://www.eventbrite.sg/e/the-bub-fair-bloom-edition-tickets-267182659527?aff=ebdssbdestsearch)|Gillman Barracks|Free Admission||
+|12 March|Music|[Jazz Today for Big Kids](https://www.esplanade.com/festivals-and-series/march-on/2022/jazz-today-for-big-kids?GenreNames=Music&Start=20220223)|Esplanade Concourse|Free||
+|12 March|Nature; Workshop; Family|[Our Miniature Rainforest Terrarium](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/miniature-rainforest-terrarium.html)|Gardens By the Bay|$65||
+|12 March|Tech; Workshop|[Coding Unplugged : Who’s Afraid of the Big Bad Wolf? DiscoverTech](https://www.eventbrite.sg/e/coding-unplugged-whos-afraid-of-the-big-bad-wolf-discovertech-registration-254305122467?aff=ebdssbdestsearch)|Woodlands Regional Library|Free||
+|12 & 19 March|Nature; Workshop|[Elements of Ikebana](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/elements-of-ikebana-12-mar.html)|Gardens By The Bay|$80||
+|12 & 26 March|Tour|[Raffles Lighthouse Tour](https://www.eventbrite.sg/e/raffles-lighthouse-tour-physical-tour-tickets-254359053777?aff=ebdssbdestsearch)|Marina South Pier|From $34.70||
+|12, 13, 19 & 20 March|Family|[Meet and Greet Oki and Suki](http://www.snowcity.com.sg/whats-on/events/)|Snow City|From $21||
+|13 March|Music|[The Night We Couldn’t Sleep](https://www.esplanade.com/festivals-and-series/march-on/2022/the-night-we-couldnt-sleep?GenreNames=Music&Start=20220223)|Esplanade Outdoor Theatre|Free||
+|14 & 16 March|Nature; Workshop; Children|[Forest Scouts](https://www.eventbrite.sg/e/marapr-forest-scouts-10am-chestnut-nature-park-tickets-262329373217?aff=ebdssbdestsearch)|Chestnut Nature Park|$353.10||
+|16 & 17 March|Nature; Workshopl Family|[The Great Outdoors Camp - Mangrove Edition](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/the-great-outdoots-camp-mangrove-edition.html)|Gardens By The Bay|$150||
+|19 March|Music|[JUHO POHJONEN PLAYS MOZART & PROKOFIEV](https://www.vtvch.com/event-details/juho-pohjonen)|Victoria Concert Hall|From $38||
+|19 March|Music|[MAJULAH LIVE X IT’S A RAP](https://www.marinabaysands.com/entertainment/shows/majulah-live-its-a-rap.html)|Sands Theatre|From $58||
+|19 March|Tour; Nature|[Sky Greens Urban Farming Tour](https://www.eventbrite.sg/e/sky-greens-urban-farming-tour-tickets-184598909307?aff=ebdssbdestsearch)|Sky Green; Lim Chu Kang|$53.45||
+|20 March|Music|[YOUNG VIRTUOSI SINGAPORE](https://www.vtvch.com/event-details/young-virtuosi-singapore)|Victoria Concert Hall|$10||
+|20 March|Music|[First Fruits](https://www.esplanade.com/festivals-and-series/mosaic-music-series/2022/first-fruits?GenreNames=Music&Start=20220223)|Esplanade Recital Studio|$35||
+|26 March|Dance|[Gelek](https://www.esplanade.com/festivals-and-series/pentas/2022/gelek?GenreNames=Dance&Start=20220223)|Esplanade Annexe Studio|$20||
+|28 March|Music|[CANDLELIGHT: MAGICAL MOVIE SOUNDTRACKS](https://www.vtvch.com/event-details/candlelight-magical-movie-soundtrack-mar)|Victoria Concert Hall|From $46||
+|28 March|Music|[An Afternoon in Paris](https://www.esplanade.com/festivals-and-series/munch-lunchtime-concert-series/2022/an-afternoon-in-paris?GenreNames=Music&Start=20220223)|Esplanade Concert Hall|$10||
+|29 March|Music|[CANDLELIGHT: TRIBUTE TO ED SHEERAN](https://www.vtvch.com/event-details/candlelight-tribute-to-ed-sheeran)|Victoria Concert Hall|From $46||
 
-### March Highlights
-
-&#x200B;
-
-|10 - 11 March|Theatre|[Queen: It's a Kinda Magic International Concert \[G\]](https://www.sistic.com.sg/events/queen0322)|MBS Theatre|From $65||
-|:-|:-|:-|:-|:-|:-|
-
-
-&#x200B;
+### 
 <!-- END HAPPENING -->
