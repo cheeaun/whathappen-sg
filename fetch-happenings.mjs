@@ -1,7 +1,10 @@
-import snoowrap from 'snoowrap';
-import fs from 'fs';
 import dotenv from 'dotenv';
 dotenv.config();
+
+import snoowrap from 'snoowrap';
+import fs from 'fs';
+import { parse } from 'marked';
+import { Feed } from 'feed';
 
 const { CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN } = process.env;
 
@@ -30,6 +33,36 @@ if (!happeningResult) {
 
 fs.writeFileSync('happenings.md', happeningResult.selftext);
 console.log('happenings.md written');
+
+const html = parse(happeningResult.selftext);
+fs.writeFileSync('happenings.html', html);
+console.log('happenings.html written');
+
+const feed = new Feed({
+  title: 'What Happen SG',
+  description:
+    'Latest "What\'s Happening in MONTH YEAR" thread content from /r/singapore subreddit.',
+  id: 'https://cheeaun.github.io/whathappen-sg/',
+  link: 'https://cheeaun.github.io/whathappen-sg/',
+  language: 'en',
+  generator: 'cheeaun/whathappen-sg',
+});
+feed.addItem({
+  title: happeningResult.title,
+  id: happeningResult.url,
+  link: happeningResult.url,
+  content: html,
+  date: new Date(),
+  author: [
+    {
+      name: 'whathappen-sg',
+    },
+  ],
+});
+fs.writeFileSync('feed.rss', feed.rss2());
+fs.writeFileSync('feed.atom', feed.atom1());
+fs.writeFileSync('feed.json', feed.json1());
+console.log('feed.* files written');
 
 const text = `## ${happeningResult.title} ([thread](${happeningResult.url}))
 
