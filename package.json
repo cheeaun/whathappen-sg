@@ -10,7 +10,7 @@
   "dependencies": {
     "dotenv": "~16.0.1",
     "feed": "~4.2.2",
-    "marked": "~4.0.16",
+    "marked": "~4.0.18",
     "snoowrap": "~1.23.0"
   }
 }
