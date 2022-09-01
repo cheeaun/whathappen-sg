@@ -1,67 +1,62 @@
-# Public Holidays
+# Festivities
 
-|9 August|National Day|
-|:-|:-|
-
-
-# National Day Events
-
-&#x200B;
-
-|6 Aug|National Day; Music|[Gardens by the Bay and Mediacorp National Day Concert 2022](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/national-day-concert-2022.html)|Supertree Grive|Free, registration required|
-|:-|:-|:-|:-|:-|
-|6, 7, 9 Aug|Festival|[FORWARD FUTURE - NATIONAL DAY 2022](https://www.sdc.com.sg/forward-future-national-day-2022/)|Singapore Discovery Centre|Free|
-|13 Aug|National Day; Music|[Temasek Foundation SSO National Day Concert 2022](https://www.esplanade.com/whats-on/2022/temasek-foundation-sso-national-day-concert-2022)|Esplanade Concert Hall|From $15|
+|10 Sept|Mid-Autumn Festival||
+|:-|:-|:-|
+|10 Sept|[Lantern Walkabout](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/lantern-walkabout)|Esplanade Waterfront Canopy; Free|
+|Till 11 Sept|[Mid-Autumn Festival 2022](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/mid-autumn-festival-2022.html)|Gardens By the Bay; Free|
+|Till 25 Sept|[Wan Qing Mid-Autumn Festival 2022](https://www.sysnmh.org.sg/en/whats-on/events/wan-qing-mid-autumn-festival-2022)|Various|
 
 &#x200B;
 
 # Ongoing Events
 
-&#x200B;
-
-|Till 7 / 9 Aug|Nature|[Singapore Garden Festival](https://sgf.nparks.gov.sg/)|Ion Orchard / Botanic Gardens|Free Admission|
+|Every Fri / Sat|Comedy|[East Coast Comedy Standup Night](https://www.eventbrite.sg/e/east-coast-comedy-standup-night-tickets-317439067797?aff=ebdssbdestsearch)|Joo Chiat|From $22|
 |:-|:-|:-|:-|:-|
-|Till 14 Aug|Art Exhibition|[Superfluous Things: Paper](https://www.singaporeartmuseum.sg/visit)|Singapore Art Museum|Free for SG/PR; $10 Adult|
-|Till 28 Aug|Family; Nature; Food|[Rooftop Farm Experience at The Sundowner](https://feverup.com/m/100641?utm_source=landing&utm_medium=landing_candlelight_sin&utm_campaign=candlelight_sin&cp_landing=city_selector)|**The Sundowner Farm & Lounge** 705A East Coast Road|From $85|
 |Till 4 Sept|Art|[loop / pool](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/visual-arts/loop-pool)|Esplanade|Free|
+|Till 8 Sept|Screening|[Imaging Paradise](https://www.marinabaysands.com/museum/events/imaging-paradise.html)|ArtScience Cinema|$13|
+|Till 10 Sept|Theatre|[ANIMAL FARM](https://www.sistic.com.sg/events/animal0922?cid=wildrice-hmfe-animal0922)|Ngee Ann Kongsi Theatre @ Funan|From $30|
+|Till 11 Sept|Food|[Singapore Food Festival 2022](https://singaporefoodfestival.sg/)|Bayfront|From $12.50|
 |Till 18 Sept|Nature|[Makers' Market](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/makers-market.html)|Floral Fantasy Gift Shop|Free Admission|
+|Till 25 Sep|Nature|[Hanging Gardens](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/hanging-gardens-2022.html)|Gardens By The Bay|$12|
 |Till 25 Sept|Art Exhibition|[FIRST PEOPLES ART OF AUSTRALIA](https://www.nationalgallery.sg/see-do/programme-detail/460894794/ever-present-first-peoples-art-of-australia)|National Gallery|Free|
 |Till 30 Oct|Exhibition|[OFF / ON: Everyday Technology that Changed our Lives, 1970s – 2000s](https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list/collecting-contemporary-singapore---technology-exhibition)|National Museum|Free|
 
-&#x200B;
+# September Events
 
-# Upcoming Events
-
-|1 Aug - 8 Sept|Screening|[Imaging Paradise](https://www.marinabaysands.com/museum/events/imaging-paradise.html)|ArtScience Cinema|$13|
+|1 - 2 Sept|Music|[SSO POPS: To Broadway, With Love](https://www.esplanade.com/whats-on/2022/sso-pops-to-broadway-with-love)|Esplanade Concert Hall|From $15|
 |:-|:-|:-|:-|:-|
-|4, 5, 6 Aug|Science|[A Night Under The Stars](https://www.eventbrite.sg/e/a-night-under-the-stars-tickets-386006284187?aff=ebdssbdestsearch)|STEM Institution|$42.80|
-|5 - 6 Aug|Concert|[THE SIMON & GARFUNKEL STORY](https://www.marinabaysands.com/entertainment/shows/the-simon-and-garfunkel-story.html)|Sands Theatre|$65|
-|From 5 Aug|Exhibition|[Patricia Piccinini: We Are Connected](https://www.marinabaysands.com/museum/exhibitions/patricia-piccinini.html)|ArtScience Museum|$18|
-|6 Aug|Social|[Y(our) National Day Ground-Up Party 2022](https://www.eventbrite.sg/e/your-national-day-ground-up-party-2022-tickets-381743072807)|Nanyang Girls' High School|Free|
-|6 Aug|Music|\[[SCO Music Oasis Concert: Our SG, Our Music](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/sco-music-oasis-concert-2022.html)|Flower Field Hall, Gardens By The Bay|Free, Registration Required|
-|6 Aug|Seminar|[Web 3.0 & Games: Future of Gaming](https://www.eventbrite.sg/e/web-30-games-future-of-gaming-tickets-359311960747?aff=ebdssbdestsearch)|Lifelong Learning Institute; Eunos|Free|
-|6 & 7 Aug|Sport|[Yoga @ Gardens by the Bay](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/yoga-at-gardensbythebay.html)|Gardens By The Bay|$22|
-|7 Aug|Music|[Singapore! A Musical Celebration](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/beautiful-sunday/singapore-a-musical-celebration)|Esplanade Concert Hall|Free|
-|7 Aug|Film|[A Yellow Bird](https://www.esplanade.com/whats-on/festivals-and-series/free-programmes/2022/red-dot-august/a-yellow-bird)|Esplanade Annexe Studio|Free|
-|12 Aug|Music|[New Beginnings](https://www.esplanade.com/whats-on/2022/new-beginnings)|Esplanade Recital Studio|From $12|
-|12 Aug|Comedy|[Kumar's Stand-Up Comedy Live!](https://www.eventbrite.sg/e/kumars-stand-up-comedy-live-tickets-388503964817?aff=ebdssbdestsearch)|Central Perk Cafe|$55|
-|12 Aug|Workshop|[Fundamentals of Urban Farming](https://www.eventbrite.sg/e/fundamentals-of-urban-farming-registration-356224676597?aff=ebdssbdestsearch)|Tampines Regional Library|Free|
-|13 Aug|Nature; Workshop|[Botanical Watercolour Art: Vanda Miss Joaquim](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/botanical-watercolour-art-vanda-miss-joaquim-workshop.html)|Ficus Room, Active Garden, Gardens By The Bay|$70|
-|13 Aug|Music|[Ashayein by Salim Sulaiman featuring Singapore Indian Orchestra and Choir](https://www.esplanade.com/whats-on/2022/ashayein-by-salim-sulaiman-featuring-singapore-indian-orchestra-and-choir)|Esplanade Theatre|From $53.36|
-|13 Aug|Music|[The Carioca Trio +1 @ The Jazz Loft](https://www.eventbrite.sg/e/the-carioca-trio-1-the-jazz-loft-tickets-384408876297?aff=ebdssbdestsearch)|Blu Jaz Cafe|$19.93|
-|13 Aug|Dance; Workshop|[Groove It Out! Kpop Dance Workshop](https://www.eventbrite.sg/e/groove-it-out-kpop-dance-workshop-tickets-387950218547?aff=ebdssbdestsearch)|NTU Alumni Club|From $10|
-|13 Aug|Music|[Tribal Freqs](https://www.eventbrite.sg/e/tribal-freqs-tickets-388769900237?aff=ebdssbdestsearch)|Turf Club Road|$36.73|
-|14 Aug|Nature|[Hydrangea Holidays](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/hydrangea-holidays-2022.html)|Flower Dome, Gardens By The Bay|$12|
-|14 Aug|Dance; Workshop|[Adults and Youth – Viennese Waltz](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/adults-youth-viennese-waltz)|Esplanade Rehearsal Studio|$17|
-|18 Aug|Health and Wellness|[(DE)Stress & (RE)Energize You: Achieve Tranquility From Stress](https://www.eventbrite.sg/e/destress-reenergize-you-achieve-tranquility-from-stress-tickets-386736217437?aff=ebdssbdestsearch)|NTU Alumni Club|$5|
-|18 Aug|Music|[Mozart Piano Concerto 24 And Brahms Symphony 1](https://www.esplanade.com/whats-on/2022/mozart-piano-concerto-24-and-brahms-symphony-1)|Esplanade Concert Hall|From $15|
-|20 Aug - 25 Sep|Nature|[Hanging Gardens](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/hanging-gardens-2022.html)|Gardens By The Bay|$12|
-|21 Aug|Dance; Workshop|[Adults and Youth – Hip Hop](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/adults-youth-hip-hop-danz-people)|Esplanade Rehearsal Studio|$17|
-|21 Aug|Dance; Workshop|[Adults and Youth – Waltz](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/adults-youth-waltz)|Esplanade Rehearsal Studio|$17|
-|24 Aug|Science|[Sound On](https://www.eventbrite.sg/e/sound-on-registration-377034138257?aff=ebdssbdestsearch)|Sengkang Public Library|Free|
-|26 - 27 Aug|Dance|[Transverse Orientation](https://www.klook.com/en-SG/event-detail/101005897-2022-transverse-orientation/?spm=Event_Vertical.AllEvent_LIST&clickId=ff9b578c24)|From $40|Esplanade Theatre|
-|27 Aug|Workshop|[Build a Miniature TreeHouse](https://www.eventbrite.sg/e/build-a-miniature-treehouse-tickets-387976517207?aff=ebdssbdestsearch)|Goodman Arts Centre|$95|
-|28 Aug|Music|[QIN LI-WEI PLAYS FOUR SEASONS • ALPINE SYMPHONY](https://www.sistic.com.sg/events/alpine0822)|Esplanade Concert Hall|From $18|
-|29 Aug|Music|[Not Just Another Hunt! - Music for Horn and Piano](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/munch-lunchtime-concert-series/not-just-another-hunt-music-for-horn-and-piano)|Esplanade Concert Hall|$12|
+|2 Sept|Music|[Stephan's Quintet](https://www.esplanade.com/whats-on/2022/stephans-quintet)|Esplanade Recital Studio|$40|
+|2 - 4 Sept|Music|[STOMP (UK)](https://www.esplanade.com/whats-on/2022/stomp)|Esplanade Theatre|$40|
+|From 3 Sept|Exhibition|[MENTAL: Colours of Wellbeing](https://www.marinabaysands.com/museum/exhibitions/mental.html)|ArtScience Museum|From $18|
+|3 Sept|Music|[IPAC 2022: Sringar](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/raga/ipac-2022-sringara)|Esplanade Concert Hall|From $28|
+|3 & 4 Sept|Culture|[Mexican Cultural Programmes](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/mexican-cultural-programmes-2022.html)|Various Locations|Free; Pre-registration required|
+|3 & 4 Sept|Music|[Irama Pantai Selatan](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/cipta-cita/irama-pantai-selatan)|Esplanade Concourse, Esplanade Outdoor Theatre|Free|
+|5 Sept|Music|[Let's Rock and Roll!](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/coffee-morning-and-afternoon-tea/lets-rock-and-roll)|Esplanade Concert Hall|$18|
+|From 7 Sept|Musical|[THE LKY MUSICAL](https://www.sistic.com.sg/events/lky1022?cid=base-hmfe-lky1022)|Sands Theatre|From $49|
+|8 Sept|Music|[Pacho Flores - Thrill of the Trumpet](https://www.esplanade.com/whats-on/2022/pacho-flores-thrill-of-the-trumpet)|Esplanade Concert Hall|From $15|
+|9 Sept|Music (R18)|[ALAN WALKER WALKERVERSE TOUR IN SINGAPORE](https://www.marinabaysands.com/entertainment/shows/alan-walker-singapore-tour.html)|MBS Expo|From $98|
+|10 Sept|Nature; Workshop|[Mounting an Epiphyte Workshop](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/mounting-an-epiphyte.html)|Ficus Room, Active Garden|$65|
+|10 Sept|Family; Children|[Parent-Child Workshop: Paper Lantern-Making](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/parent-child-workshop-paper-lantern-making)|Esplanade Bay Room|$40|
+|10 Sept|Theatre|[Laugh Out Loud: A Crosstalk Showcase](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/laugh-out-loud-a-crosstalk-showcase)|Esplanade Concourse|Free|
+|10 Sept|Theatre|[Performing Grief](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/the-studios/performing-grief)|Library@Esplanade|Free|
+|10 & 11 Sept|Theatre|[Where is the Moon?](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/where-is-the-moon)|PIP's PLAYbox|Free|
+|11 Sept|Wellness|[The Big Sit Get Inspired by Practising Mindfulness for Good Mental Health](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/the-big-sit.html)|Active Garden|$8|
+|11 Sept|Music|[WonderFULL Getai Night](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/wonderfull-getai-night)|Esplanade Outdoor Theatre|Free|
+|13 Sept|Music|[The Philharmonic Orchestra presents Unbridled Passions, featuring works by Hector Berlioz](https://www.sistic.com.sg/events/philharmonic0922)|Esplanade Concert Hall|From $18|
+|18 Sept|Dance;Workshop; Family|[Twinkle Toes – Minions-themed Jazz](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/twinkle-toes-minions-themed-jazz)|Esplanade Rehearsal Studio|From $34|
+|18 Sept|Dance; Workshop|[Adults and Youth – Brazilian Samba](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/adults-youth-brazillian-samba)|Esplanade Rehearsal Studio|$17|
+|24 & 25 Sept|Sports|[Singapore Motocross Beach Race](https://www.sistic.com.sg/events/mx0922)|Tanjong Beach|From $58|
+|25 Sept|Nature; Workshop|[Kokedama: Creating your own Natural Moss Pot and String Hanger](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/kokedama-creating-your-own-natural-moss-pot-and-string-hanger.html)|Ficus Room, Active Garden|$55|
+|30 Sept|Music|[Marshmello (USA)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Padang Stage|From $98|
+|1 Oct|Music|[Westlife (IRL)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Padang Stage From|From $188|
+|1 & 2 Oct|Music|[Black Eyed Peas (USA)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Various|From $188|
+|1 Oct|Music|[Suede (GBR)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Wharf Stage|From $288|
+|1 Oct|Music|[TLC (USA)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Wharf Stage|From $288|
+|30 Sept - 2 Oct|Sports;Music|[Formula 1 Singapore Airlines Singapore Grand Prix 2022](https://singaporegp.sg/en)|Marina Bay Circuit|From $98|
+|2 Oct|Music|[Green Day (USA)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Padang Stage|From $208|
+|2 Oct|Music|[The Kid LAROI (AUS)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Padang Stage|From $208|
+|13 Oct|Musical|[Swan Lake - The United Ukrainian Ballet](https://www.sistic.com.sg/events/swanlake1022?cid=base-hmfe-swanlake1022)|Sands Theatre|From $55|
+|From 22 Nov|Musical|[THE SOUND OF MUSIC](https://www.marinabaysands.com/entertainment/shows/the-sound-of-music.html)|Sands Theatre|From $78|
+|From 25 Nov|Theatre; Comedy (M16)|[Chestnuts - Sibeh Strange in the Multiverse](https://www.sistic.com.sg/events/chestnuts1122)|Drama Centre Theatre|From $50|
 
 &#x200B;

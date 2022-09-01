@@ -2,79 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cheeaun.github.io/whathappen-sg/</id>
     <title>What Happen SG</title>
-    <updated>2022-08-21T00:00:54.959Z</updated>
+    <updated>2022-09-01T00:01:03.270Z</updated>
     <generator>cheeaun/whathappen-sg</generator>
     <link rel="alternate" href="https://cheeaun.github.io/whathappen-sg/"/>
     <subtitle>Latest "What's Happening in MONTH YEAR" thread content from /r/singapore subreddit.</subtitle>
     <entry>
-        <title type="html"><![CDATA[What's Happening In August 2022?]]></title>
-        <id>https://www.reddit.com/r/singapore/comments/w7dswh/whats_happening_in_august_2022/</id>
-        <link href="https://www.reddit.com/r/singapore/comments/w7dswh/whats_happening_in_august_2022/"/>
-        <updated>2022-08-21T00:00:54.957Z</updated>
-        <content type="html"><![CDATA[<h1 id="public-holidays">Public Holidays</h1>
+        <title type="html"><![CDATA[What's Happening in September 2022?]]></title>
+        <id>https://www.reddit.com/r/singapore/comments/wvkvba/whats_happening_in_september_2022/</id>
+        <link href="https://www.reddit.com/r/singapore/comments/wvkvba/whats_happening_in_september_2022/"/>
+        <updated>2022-09-01T00:01:03.268Z</updated>
+        <content type="html"><![CDATA[<h1 id="festivities">Festivities</h1>
 <table>
 <thead>
 <tr>
-<th align="left">9 August</th>
-<th align="left">National Day</th>
-</tr>
-</thead>
-</table>
-<h1 id="national-day-events">National Day Events</h1>
-<p>&#x200B;</p>
-<table>
-<thead>
-<tr>
-<th align="left">6 Aug</th>
-<th align="left">National Day; Music</th>
-<th align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/national-day-concert-2022.html">Gardens by the Bay and Mediacorp National Day Concert 2022</a></th>
-<th align="left">Supertree Grive</th>
-<th align="left">Free, registration required</th>
+<th align="left">10 Sept</th>
+<th align="left">Mid-Autumn Festival</th>
+<th align="left"></th>
 </tr>
 </thead>
 <tbody><tr>
-<td align="left">6, 7, 9 Aug</td>
-<td align="left">Festival</td>
-<td align="left"><a href="https://www.sdc.com.sg/forward-future-national-day-2022/">FORWARD FUTURE - NATIONAL DAY 2022</a></td>
-<td align="left">Singapore Discovery Centre</td>
-<td align="left">Free</td>
+<td align="left">10 Sept</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/lantern-walkabout">Lantern Walkabout</a></td>
+<td align="left">Esplanade Waterfront Canopy; Free</td>
 </tr>
 <tr>
-<td align="left">13 Aug</td>
-<td align="left">National Day; Music</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/2022/temasek-foundation-sso-national-day-concert-2022">Temasek Foundation SSO National Day Concert 2022</a></td>
-<td align="left">Esplanade Concert Hall</td>
-<td align="left">From $15</td>
+<td align="left">Till 11 Sept</td>
+<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/mid-autumn-festival-2022.html">Mid-Autumn Festival 2022</a></td>
+<td align="left">Gardens By the Bay; Free</td>
+</tr>
+<tr>
+<td align="left">Till 25 Sept</td>
+<td align="left"><a href="https://www.sysnmh.org.sg/en/whats-on/events/wan-qing-mid-autumn-festival-2022">Wan Qing Mid-Autumn Festival 2022</a></td>
+<td align="left">Various</td>
 </tr>
 </tbody></table>
 <p>&#x200B;</p>
 <h1 id="ongoing-events">Ongoing Events</h1>
-<p>&#x200B;</p>
 <table>
 <thead>
 <tr>
-<th align="left">Till 7 / 9 Aug</th>
-<th align="left">Nature</th>
-<th align="left"><a href="https://sgf.nparks.gov.sg/">Singapore Garden Festival</a></th>
-<th align="left">Ion Orchard / Botanic Gardens</th>
-<th align="left">Free Admission</th>
+<th align="left">Every Fri / Sat</th>
+<th align="left">Comedy</th>
+<th align="left"><a href="https://www.eventbrite.sg/e/east-coast-comedy-standup-night-tickets-317439067797?aff=ebdssbdestsearch">East Coast Comedy Standup Night</a></th>
+<th align="left">Joo Chiat</th>
+<th align="left">From $22</th>
 </tr>
 </thead>
 <tbody><tr>
-<td align="left">Till 14 Aug</td>
-<td align="left">Art Exhibition</td>
-<td align="left"><a href="https://www.singaporeartmuseum.sg/visit">Superfluous Things: Paper</a></td>
-<td align="left">Singapore Art Museum</td>
-<td align="left">Free for SG/PR; $10 Adult</td>
-</tr>
-<tr>
-<td align="left">Till 28 Aug</td>
-<td align="left">Family; Nature; Food</td>
-<td align="left"><a href="https://feverup.com/m/100641?utm_source=landing&amp;utm_medium=landing_candlelight_sin&amp;utm_campaign=candlelight_sin&amp;cp_landing=city_selector">Rooftop Farm Experience at The Sundowner</a></td>
-<td align="left"><strong>The Sundowner Farm &amp; Lounge</strong> 705A East Coast Road</td>
-<td align="left">From $85</td>
-</tr>
-<tr>
 <td align="left">Till 4 Sept</td>
 <td align="left">Art</td>
 <td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/visual-arts/loop-pool">loop / pool</a></td>
@@ -82,11 +56,39 @@
 <td align="left">Free</td>
 </tr>
 <tr>
+<td align="left">Till 8 Sept</td>
+<td align="left">Screening</td>
+<td align="left"><a href="https://www.marinabaysands.com/museum/events/imaging-paradise.html">Imaging Paradise</a></td>
+<td align="left">ArtScience Cinema</td>
+<td align="left">$13</td>
+</tr>
+<tr>
+<td align="left">Till 10 Sept</td>
+<td align="left">Theatre</td>
+<td align="left"><a href="https://www.sistic.com.sg/events/animal0922?cid=wildrice-hmfe-animal0922">ANIMAL FARM</a></td>
+<td align="left">Ngee Ann Kongsi Theatre @ Funan</td>
+<td align="left">From $30</td>
+</tr>
+<tr>
+<td align="left">Till 11 Sept</td>
+<td align="left">Food</td>
+<td align="left"><a href="https://singaporefoodfestival.sg/">Singapore Food Festival 2022</a></td>
+<td align="left">Bayfront</td>
+<td align="left">From $12.50</td>
+</tr>
+<tr>
 <td align="left">Till 18 Sept</td>
 <td align="left">Nature</td>
 <td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/makers-market.html">Makers&#39; Market</a></td>
 <td align="left">Floral Fantasy Gift Shop</td>
 <td align="left">Free Admission</td>
+</tr>
+<tr>
+<td align="left">Till 25 Sep</td>
+<td align="left">Nature</td>
+<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/hanging-gardens-2022.html">Hanging Gardens</a></td>
+<td align="left">Gardens By The Bay</td>
+<td align="left">$12</td>
 </tr>
 <tr>
 <td align="left">Till 25 Sept</td>
@@ -103,220 +105,247 @@
 <td align="left">Free</td>
 </tr>
 </tbody></table>
-<p>&#x200B;</p>
-<h1 id="upcoming-events">Upcoming Events</h1>
+<h1 id="september-events">September Events</h1>
 <table>
 <thead>
 <tr>
-<th align="left">1 Aug - 8 Sept</th>
-<th align="left">Screening</th>
-<th align="left"><a href="https://www.marinabaysands.com/museum/events/imaging-paradise.html">Imaging Paradise</a></th>
-<th align="left">ArtScience Cinema</th>
-<th align="left">$13</th>
+<th align="left">1 - 2 Sept</th>
+<th align="left">Music</th>
+<th align="left"><a href="https://www.esplanade.com/whats-on/2022/sso-pops-to-broadway-with-love">SSO POPS: To Broadway, With Love</a></th>
+<th align="left">Esplanade Concert Hall</th>
+<th align="left">From $15</th>
 </tr>
 </thead>
 <tbody><tr>
-<td align="left">4, 5, 6 Aug</td>
-<td align="left">Science</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/a-night-under-the-stars-tickets-386006284187?aff=ebdssbdestsearch">A Night Under The Stars</a></td>
-<td align="left">STEM Institution</td>
-<td align="left">$42.80</td>
+<td align="left">2 Sept</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/2022/stephans-quintet">Stephan&#39;s Quintet</a></td>
+<td align="left">Esplanade Recital Studio</td>
+<td align="left">$40</td>
 </tr>
 <tr>
-<td align="left">5 - 6 Aug</td>
-<td align="left">Concert</td>
-<td align="left"><a href="https://www.marinabaysands.com/entertainment/shows/the-simon-and-garfunkel-story.html">THE SIMON &amp; GARFUNKEL STORY</a></td>
-<td align="left">Sands Theatre</td>
-<td align="left">$65</td>
+<td align="left">2 - 4 Sept</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/2022/stomp">STOMP (UK)</a></td>
+<td align="left">Esplanade Theatre</td>
+<td align="left">$40</td>
 </tr>
 <tr>
-<td align="left">From 5 Aug</td>
+<td align="left">From 3 Sept</td>
 <td align="left">Exhibition</td>
-<td align="left"><a href="https://www.marinabaysands.com/museum/exhibitions/patricia-piccinini.html">Patricia Piccinini: We Are Connected</a></td>
+<td align="left"><a href="https://www.marinabaysands.com/museum/exhibitions/mental.html">MENTAL: Colours of Wellbeing</a></td>
 <td align="left">ArtScience Museum</td>
+<td align="left">From $18</td>
+</tr>
+<tr>
+<td align="left">3 Sept</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/raga/ipac-2022-sringara">IPAC 2022: Sringar</a></td>
+<td align="left">Esplanade Concert Hall</td>
+<td align="left">From $28</td>
+</tr>
+<tr>
+<td align="left">3 &amp; 4 Sept</td>
+<td align="left">Culture</td>
+<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/mexican-cultural-programmes-2022.html">Mexican Cultural Programmes</a></td>
+<td align="left">Various Locations</td>
+<td align="left">Free; Pre-registration required</td>
+</tr>
+<tr>
+<td align="left">3 &amp; 4 Sept</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/cipta-cita/irama-pantai-selatan">Irama Pantai Selatan</a></td>
+<td align="left">Esplanade Concourse, Esplanade Outdoor Theatre</td>
+<td align="left">Free</td>
+</tr>
+<tr>
+<td align="left">5 Sept</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/coffee-morning-and-afternoon-tea/lets-rock-and-roll">Let&#39;s Rock and Roll!</a></td>
+<td align="left">Esplanade Concert Hall</td>
 <td align="left">$18</td>
 </tr>
 <tr>
-<td align="left">6 Aug</td>
-<td align="left">Social</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/your-national-day-ground-up-party-2022-tickets-381743072807">Y(our) National Day Ground-Up Party 2022</a></td>
-<td align="left">Nanyang Girls&#39; High School</td>
-<td align="left">Free</td>
+<td align="left">From 7 Sept</td>
+<td align="left">Musical</td>
+<td align="left"><a href="https://www.sistic.com.sg/events/lky1022?cid=base-hmfe-lky1022">THE LKY MUSICAL</a></td>
+<td align="left">Sands Theatre</td>
+<td align="left">From $49</td>
 </tr>
 <tr>
-<td align="left">6 Aug</td>
+<td align="left">8 Sept</td>
 <td align="left">Music</td>
-<td align="left">[<a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/sco-music-oasis-concert-2022.html">SCO Music Oasis Concert: Our SG, Our Music</a></td>
-<td align="left">Flower Field Hall, Gardens By The Bay</td>
-<td align="left">Free, Registration Required</td>
-</tr>
-<tr>
-<td align="left">6 Aug</td>
-<td align="left">Seminar</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/web-30-games-future-of-gaming-tickets-359311960747?aff=ebdssbdestsearch">Web 3.0 &amp; Games: Future of Gaming</a></td>
-<td align="left">Lifelong Learning Institute; Eunos</td>
-<td align="left">Free</td>
-</tr>
-<tr>
-<td align="left">6 &amp; 7 Aug</td>
-<td align="left">Sport</td>
-<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/yoga-at-gardensbythebay.html">Yoga @ Gardens by the Bay</a></td>
-<td align="left">Gardens By The Bay</td>
-<td align="left">$22</td>
-</tr>
-<tr>
-<td align="left">7 Aug</td>
-<td align="left">Music</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/beautiful-sunday/singapore-a-musical-celebration">Singapore! A Musical Celebration</a></td>
-<td align="left">Esplanade Concert Hall</td>
-<td align="left">Free</td>
-</tr>
-<tr>
-<td align="left">7 Aug</td>
-<td align="left">Film</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/free-programmes/2022/red-dot-august/a-yellow-bird">A Yellow Bird</a></td>
-<td align="left">Esplanade Annexe Studio</td>
-<td align="left">Free</td>
-</tr>
-<tr>
-<td align="left">12 Aug</td>
-<td align="left">Music</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/2022/new-beginnings">New Beginnings</a></td>
-<td align="left">Esplanade Recital Studio</td>
-<td align="left">From $12</td>
-</tr>
-<tr>
-<td align="left">12 Aug</td>
-<td align="left">Comedy</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/kumars-stand-up-comedy-live-tickets-388503964817?aff=ebdssbdestsearch">Kumar&#39;s Stand-Up Comedy Live!</a></td>
-<td align="left">Central Perk Cafe</td>
-<td align="left">$55</td>
-</tr>
-<tr>
-<td align="left">12 Aug</td>
-<td align="left">Workshop</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/fundamentals-of-urban-farming-registration-356224676597?aff=ebdssbdestsearch">Fundamentals of Urban Farming</a></td>
-<td align="left">Tampines Regional Library</td>
-<td align="left">Free</td>
-</tr>
-<tr>
-<td align="left">13 Aug</td>
-<td align="left">Nature; Workshop</td>
-<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/botanical-watercolour-art-vanda-miss-joaquim-workshop.html">Botanical Watercolour Art: Vanda Miss Joaquim</a></td>
-<td align="left">Ficus Room, Active Garden, Gardens By The Bay</td>
-<td align="left">$70</td>
-</tr>
-<tr>
-<td align="left">13 Aug</td>
-<td align="left">Music</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/2022/ashayein-by-salim-sulaiman-featuring-singapore-indian-orchestra-and-choir">Ashayein by Salim Sulaiman featuring Singapore Indian Orchestra and Choir</a></td>
-<td align="left">Esplanade Theatre</td>
-<td align="left">From $53.36</td>
-</tr>
-<tr>
-<td align="left">13 Aug</td>
-<td align="left">Music</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/the-carioca-trio-1-the-jazz-loft-tickets-384408876297?aff=ebdssbdestsearch">The Carioca Trio +1 @ The Jazz Loft</a></td>
-<td align="left">Blu Jaz Cafe</td>
-<td align="left">$19.93</td>
-</tr>
-<tr>
-<td align="left">13 Aug</td>
-<td align="left">Dance; Workshop</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/groove-it-out-kpop-dance-workshop-tickets-387950218547?aff=ebdssbdestsearch">Groove It Out! Kpop Dance Workshop</a></td>
-<td align="left">NTU Alumni Club</td>
-<td align="left">From $10</td>
-</tr>
-<tr>
-<td align="left">13 Aug</td>
-<td align="left">Music</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/tribal-freqs-tickets-388769900237?aff=ebdssbdestsearch">Tribal Freqs</a></td>
-<td align="left">Turf Club Road</td>
-<td align="left">$36.73</td>
-</tr>
-<tr>
-<td align="left">14 Aug</td>
-<td align="left">Nature</td>
-<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/hydrangea-holidays-2022.html">Hydrangea Holidays</a></td>
-<td align="left">Flower Dome, Gardens By The Bay</td>
-<td align="left">$12</td>
-</tr>
-<tr>
-<td align="left">14 Aug</td>
-<td align="left">Dance; Workshop</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/adults-youth-viennese-waltz">Adults and Youth – Viennese Waltz</a></td>
-<td align="left">Esplanade Rehearsal Studio</td>
-<td align="left">$17</td>
-</tr>
-<tr>
-<td align="left">18 Aug</td>
-<td align="left">Health and Wellness</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/destress-reenergize-you-achieve-tranquility-from-stress-tickets-386736217437?aff=ebdssbdestsearch">(DE)Stress &amp; (RE)Energize You: Achieve Tranquility From Stress</a></td>
-<td align="left">NTU Alumni Club</td>
-<td align="left">$5</td>
-</tr>
-<tr>
-<td align="left">18 Aug</td>
-<td align="left">Music</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/2022/mozart-piano-concerto-24-and-brahms-symphony-1">Mozart Piano Concerto 24 And Brahms Symphony 1</a></td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/2022/pacho-flores-thrill-of-the-trumpet">Pacho Flores - Thrill of the Trumpet</a></td>
 <td align="left">Esplanade Concert Hall</td>
 <td align="left">From $15</td>
 </tr>
 <tr>
-<td align="left">20 Aug - 25 Sep</td>
-<td align="left">Nature</td>
-<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/hanging-gardens-2022.html">Hanging Gardens</a></td>
-<td align="left">Gardens By The Bay</td>
-<td align="left">$12</td>
+<td align="left">9 Sept</td>
+<td align="left">Music (R18)</td>
+<td align="left"><a href="https://www.marinabaysands.com/entertainment/shows/alan-walker-singapore-tour.html">ALAN WALKER WALKERVERSE TOUR IN SINGAPORE</a></td>
+<td align="left">MBS Expo</td>
+<td align="left">From $98</td>
 </tr>
 <tr>
-<td align="left">21 Aug</td>
-<td align="left">Dance; Workshop</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/adults-youth-hip-hop-danz-people">Adults and Youth – Hip Hop</a></td>
-<td align="left">Esplanade Rehearsal Studio</td>
-<td align="left">$17</td>
+<td align="left">10 Sept</td>
+<td align="left">Nature; Workshop</td>
+<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/mounting-an-epiphyte.html">Mounting an Epiphyte Workshop</a></td>
+<td align="left">Ficus Room, Active Garden</td>
+<td align="left">$65</td>
 </tr>
 <tr>
-<td align="left">21 Aug</td>
-<td align="left">Dance; Workshop</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/adults-youth-waltz">Adults and Youth – Waltz</a></td>
-<td align="left">Esplanade Rehearsal Studio</td>
-<td align="left">$17</td>
+<td align="left">10 Sept</td>
+<td align="left">Family; Children</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/parent-child-workshop-paper-lantern-making">Parent-Child Workshop: Paper Lantern-Making</a></td>
+<td align="left">Esplanade Bay Room</td>
+<td align="left">$40</td>
 </tr>
 <tr>
-<td align="left">24 Aug</td>
-<td align="left">Science</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/sound-on-registration-377034138257?aff=ebdssbdestsearch">Sound On</a></td>
-<td align="left">Sengkang Public Library</td>
+<td align="left">10 Sept</td>
+<td align="left">Theatre</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/laugh-out-loud-a-crosstalk-showcase">Laugh Out Loud: A Crosstalk Showcase</a></td>
+<td align="left">Esplanade Concourse</td>
 <td align="left">Free</td>
 </tr>
 <tr>
-<td align="left">26 - 27 Aug</td>
-<td align="left">Dance</td>
-<td align="left"><a href="https://www.klook.com/en-SG/event-detail/101005897-2022-transverse-orientation/?spm=Event_Vertical.AllEvent_LIST&amp;clickId=ff9b578c24">Transverse Orientation</a></td>
-<td align="left">From $40</td>
-<td align="left">Esplanade Theatre</td>
+<td align="left">10 Sept</td>
+<td align="left">Theatre</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/the-studios/performing-grief">Performing Grief</a></td>
+<td align="left">Library@Esplanade</td>
+<td align="left">Free</td>
 </tr>
 <tr>
-<td align="left">27 Aug</td>
-<td align="left">Workshop</td>
-<td align="left"><a href="https://www.eventbrite.sg/e/build-a-miniature-treehouse-tickets-387976517207?aff=ebdssbdestsearch">Build a Miniature TreeHouse</a></td>
-<td align="left">Goodman Arts Centre</td>
-<td align="left">$95</td>
+<td align="left">10 &amp; 11 Sept</td>
+<td align="left">Theatre</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/where-is-the-moon">Where is the Moon?</a></td>
+<td align="left">PIP&#39;s PLAYbox</td>
+<td align="left">Free</td>
 </tr>
 <tr>
-<td align="left">28 Aug</td>
+<td align="left">11 Sept</td>
+<td align="left">Wellness</td>
+<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/the-big-sit.html">The Big Sit Get Inspired by Practising Mindfulness for Good Mental Health</a></td>
+<td align="left">Active Garden</td>
+<td align="left">$8</td>
+</tr>
+<tr>
+<td align="left">11 Sept</td>
 <td align="left">Music</td>
-<td align="left"><a href="https://www.sistic.com.sg/events/alpine0822">QIN LI-WEI PLAYS FOUR SEASONS • ALPINE SYMPHONY</a></td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/moonfest/events/wonderfull-getai-night">WonderFULL Getai Night</a></td>
+<td align="left">Esplanade Outdoor Theatre</td>
+<td align="left">Free</td>
+</tr>
+<tr>
+<td align="left">13 Sept</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://www.sistic.com.sg/events/philharmonic0922">The Philharmonic Orchestra presents Unbridled Passions, featuring works by Hector Berlioz</a></td>
 <td align="left">Esplanade Concert Hall</td>
 <td align="left">From $18</td>
 </tr>
 <tr>
-<td align="left">29 Aug</td>
+<td align="left">18 Sept</td>
+<td align="left">Dance;Workshop; Family</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/twinkle-toes-minions-themed-jazz">Twinkle Toes – Minions-themed Jazz</a></td>
+<td align="left">Esplanade Rehearsal Studio</td>
+<td align="left">From $34</td>
+</tr>
+<tr>
+<td align="left">18 Sept</td>
+<td align="left">Dance; Workshop</td>
+<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/footwork/workshops/adults-youth-brazillian-samba">Adults and Youth – Brazilian Samba</a></td>
+<td align="left">Esplanade Rehearsal Studio</td>
+<td align="left">$17</td>
+</tr>
+<tr>
+<td align="left">24 &amp; 25 Sept</td>
+<td align="left">Sports</td>
+<td align="left"><a href="https://www.sistic.com.sg/events/mx0922">Singapore Motocross Beach Race</a></td>
+<td align="left">Tanjong Beach</td>
+<td align="left">From $58</td>
+</tr>
+<tr>
+<td align="left">25 Sept</td>
+<td align="left">Nature; Workshop</td>
+<td align="left"><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/kokedama-creating-your-own-natural-moss-pot-and-string-hanger.html">Kokedama: Creating your own Natural Moss Pot and String Hanger</a></td>
+<td align="left">Ficus Room, Active Garden</td>
+<td align="left">$55</td>
+</tr>
+<tr>
+<td align="left">30 Sept</td>
 <td align="left">Music</td>
-<td align="left"><a href="https://www.esplanade.com/whats-on/festivals-and-series/series/2022/munch-lunchtime-concert-series/not-just-another-hunt-music-for-horn-and-piano">Not Just Another Hunt! - Music for Horn and Piano</a></td>
-<td align="left">Esplanade Concert Hall</td>
-<td align="left">$12</td>
+<td align="left"><a href="https://singaporegp.sg/en/entertainment/2022-entertainment-line-up">Marshmello (USA)</a></td>
+<td align="left">Padang Stage</td>
+<td align="left">From $98</td>
+</tr>
+<tr>
+<td align="left">1 Oct</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://singaporegp.sg/en/entertainment/2022-entertainment-line-up">Westlife (IRL)</a></td>
+<td align="left">Padang Stage From</td>
+<td align="left">From $188</td>
+</tr>
+<tr>
+<td align="left">1 &amp; 2 Oct</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://singaporegp.sg/en/entertainment/2022-entertainment-line-up">Black Eyed Peas (USA)</a></td>
+<td align="left">Various</td>
+<td align="left">From $188</td>
+</tr>
+<tr>
+<td align="left">1 Oct</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://singaporegp.sg/en/entertainment/2022-entertainment-line-up">Suede (GBR)</a></td>
+<td align="left">Wharf Stage</td>
+<td align="left">From $288</td>
+</tr>
+<tr>
+<td align="left">1 Oct</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://singaporegp.sg/en/entertainment/2022-entertainment-line-up">TLC (USA)</a></td>
+<td align="left">Wharf Stage</td>
+<td align="left">From $288</td>
+</tr>
+<tr>
+<td align="left">30 Sept - 2 Oct</td>
+<td align="left">Sports;Music</td>
+<td align="left"><a href="https://singaporegp.sg/en">Formula 1 Singapore Airlines Singapore Grand Prix 2022</a></td>
+<td align="left">Marina Bay Circuit</td>
+<td align="left">From $98</td>
+</tr>
+<tr>
+<td align="left">2 Oct</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://singaporegp.sg/en/entertainment/2022-entertainment-line-up">Green Day (USA)</a></td>
+<td align="left">Padang Stage</td>
+<td align="left">From $208</td>
+</tr>
+<tr>
+<td align="left">2 Oct</td>
+<td align="left">Music</td>
+<td align="left"><a href="https://singaporegp.sg/en/entertainment/2022-entertainment-line-up">The Kid LAROI (AUS)</a></td>
+<td align="left">Padang Stage</td>
+<td align="left">From $208</td>
+</tr>
+<tr>
+<td align="left">13 Oct</td>
+<td align="left">Musical</td>
+<td align="left"><a href="https://www.sistic.com.sg/events/swanlake1022?cid=base-hmfe-swanlake1022">Swan Lake - The United Ukrainian Ballet</a></td>
+<td align="left">Sands Theatre</td>
+<td align="left">From $55</td>
+</tr>
+<tr>
+<td align="left">From 22 Nov</td>
+<td align="left">Musical</td>
+<td align="left"><a href="https://www.marinabaysands.com/entertainment/shows/the-sound-of-music.html">THE SOUND OF MUSIC</a></td>
+<td align="left">Sands Theatre</td>
+<td align="left">From $78</td>
+</tr>
+<tr>
+<td align="left">From 25 Nov</td>
+<td align="left">Theatre; Comedy (M16)</td>
+<td align="left"><a href="https://www.sistic.com.sg/events/chestnuts1122">Chestnuts - Sibeh Strange in the Multiverse</a></td>
+<td align="left">Drama Centre Theatre</td>
+<td align="left">From $50</td>
 </tr>
 </tbody></table>
 <p>&#x200B;</p>
