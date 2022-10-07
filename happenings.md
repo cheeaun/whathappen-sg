@@ -12,44 +12,20 @@
 
 # Halloween Festivities
 
-|30 Sept - 5 Nov|[Universal Studios Singapore’s Halloween Horror Nights](https://www.rwsentosa.com/en/promotions/attractions/hhn)|Resorts World Sentosa|From $68|
-|:-|:-|:-|:-|
 |9 Oct|[BOO! – A Halloween Special (Music)](https://www.esplanade.com/whats-on/festivals-and-series/series/2022/beautiful-sunday/boo-a-halloween-special)|Esplanade|Free|
+|:-|:-|:-|:-|
 |22 Oct|[Halloween Party](https://www.eventbrite.sg/e/halloween-party-tickets-414165087927?aff=ebdssbdestsearch&keep_tld=1)|Zouk|From $27.26|
 |29 & 30 Oct|[HALLOWEEN NIGHT (Music)](https://www.sso.org.sg/vchpresents/halloween-night)|Victoria Concert Hall|$5|
 |28 Oct|[HALLOWEEN PARTY: LET THE GHOUL TIMES ROLL](https://www.eventbrite.sg/e/halloween-party-let-the-ghoul-times-roll-tickets-420383086127?aff=ebdssbdestsearch&keep_tld=1)|Upper Circular Road|$38|
 |29 & 30 Oct|[Halloween Cooking Class for Kids with Louise](https://www.eventbrite.sg/e/halloween-cooking-class-for-kids-with-louise-jiayo-tickets-425627642737?aff=ebdssbdestsearch)|OUE Downtown|$147.70|
+|Till 5 Nov|[Universal Studios Singapore’s Halloween Horror Nights](https://www.rwsentosa.com/en/promotions/attractions/hhn)|Resorts World Sentosa|From $68|
 |Till 6 Nov|[Trick or Thrills](https://www.rwsentosa.com/en/promotions/attractions/trick-or-thrills)|Universal Studios|From $68|
 |Till 8 Nov|[Deep Boo Sea at S.E.A. Aquarium](https://www.rwsentosa.com/en/promotions/attractions/deep-boo-sea?gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKJ4hB62AySxSYQnp_-7A0dmAiUfc_zQd8zAP4t8NyalhsztL87Gk8EaAryeEALw_wcB&gclsrc=aw.ds)|Resorts World Sentosa|From $51|
-
-# F1 Festivities
-
-&#x200B;
-
-|28 Sept|Sports; F1|[LEGO Technic McLaren F1 Pop-Up Experience](https://www.timeout.com/singapore/things-to-do/lego-technic-mclaren-f1-pop-up-experience)|Ngee Ann Civic Plaza|Free|
-|:-|:-|:-|:-|:-|
-|30 Sept|Music|[The Official Friday Night PR1X Party](https://www.eventbrite.sg/e/the-official-friday-night-pr1x-party-tickets-421090732717?aff=ebdssbdestsearch&keep_tld=1)|1880|$146.66|
-|30 Sept - 2 Oct|Sports;Music|[Formula 1 Singapore Airlines Singapore Grand Prix 2022](https://singaporegp.sg/en)|Marina Bay Circuit|From $98|
-|30 Sept|Music|[Marshmello (USA)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Padang Stage|From $98|
-|1 Oct|Music|[Westlife (IRL)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Padang Stage From|From $188|
-|1 & 2 Oct|Music|[Black Eyed Peas (USA)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Various|From $188|
-|1 Oct|Music|[Suede (GBR)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Wharf Stage|From $288|
-|1 Oct|Music|[TLC (USA)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Wharf Stage|From $288|
-|1 Oct|Party|[FUNCH! An Exciting F1 Brunch](https://www.eventbrite.com/e/funch-an-exciting-f1-brunch-followed-by-the-best-singapore-pool-party-tickets-422272417167)|Sofitel Sentosa|Free Entry; Shuttle Bus provided|
-|2 Oct|Walk|[Singapore Grand Prix 1961 to 1973: Upper Thomson Racing Circuit](https://www.eventbrite.sg/e/singapore-grand-prix-1961-to-1973-upper-thomson-racing-circuit-tickets-413272237387?aff=ebdssbdestsearch)|Springleaf Mrt|Free|
-|2 Oct|Music|[Green Day (USA)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Padang Stage|From $208|
-|2 Oct|Music|[The Kid LAROI (AUS)](https://singaporegp.sg/en/entertainment/2022-entertainment-line-up)|Padang Stage|From $208|
-|Till 2 Oct|Showcase|[Mercedes-AMG x IWC Racing Experience Showcase](https://www.eventbrite.sg/e/mercedes-amg-x-iwc-racing-experience-showcase-tickets-425598164567?aff=ebdssbdestsearch&keep_tld=1)|Great World City|Free|
 
 # Ongoing Events
 
 ||Food; Attractions|[Central Beach Bazaar](https://www.mountfaberleisure.com/attraction/central-beach-bazaar/)|Sentosa|From $5|
 |:-|:-|:-|:-|:-|
-|Till 2 Oct|Festival|[Sentosa Beach Jam 2022](https://www.sentosa.com.sg/en/things-to-do/events/beachjam/)|Sentosa|Free Entry|
-|Till 2 Oct|Exhibiition|[We Live in an Ocean of Air](https://www.marinabaysands.com/museum/exhibitions/we-live-in-an-ocean-of-air.html)|ArtScience Museum|From $16|
-|Till 2 Oct|Festival|[Glamboyant - Kampong Gelam](https://visitkamponggelam.com.sg/event/glamboyant-kampong-gelam-gpss-2022-precinct-activation/)|Around Beach Road|Free|
-|Till 2 Oct|Theatre|[The LKY Musical](https://www.srt.com.sg/show/theLKYmusical/)|Sands Theatre|From $49|
-|Till 3 Oct|Film|[Making Waves – Navigators of Hong Kong Cinema](https://singaporefilmsociety.com/makingwavessg/)|Golden Village|From $13|
 |Till 9 Oct|Festival|[Re-Route Festival 2022](https://reroutefest.com/)|Little India|Free Entry|
 |Till 9 Oct|Exhibition|[Waves of Change Festival 2022](https://www.marinabaysands.com/museum/events/waves-of-change-2022.html)|ArtScience Museum|Free|
 |Till 21 Oct|Exhibition; Children|[HOUSE OF DREAMS; Barbie](https://www.ionorchard.com/event/house-of-dreams)|ION Art Gallery|Free|
@@ -63,16 +39,8 @@
 
 # Upcoming Events
 
-|30 Sept|Music|[Steve Aoki](https://marqueesingapore.com/event/marquee-race-weekend-presents-steve-aoki/)|The Marquee|From $80|
-|:-|:-|:-|:-|:-|
-|1 Oct|Sports|[FH WWMAS: The Mindful Walk](https://www.eventbrite.sg/e/fh-wwmas-the-mindful-walk-tickets-401935518957?aff=ebdssbdestsearch)|Gardens By The Bay|$8|
-|1 Oct|Music|[Afrojack](https://marqueesingapore.com/event/marquee-race-weekend-presents-afrojack/)|The Marquee|From $80|
-|2 Oct|Dance Class|[Beginners 2 with Jeremie](https://www.eventbrite.sg/e/beginners-2-with-jeremie-tickets-424866375767?aff=ebdssbdestsearch)|Victoria Street|Free|
-|1 - 30 Oct|Nature|[A Spanish Serenade with Sunflowers](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/a-spanish-serenade-with-sunflowers-2022.html)|Gardens By The Bay|From $12|
-|1 - 30 Oct|Alcohol|[Glenfiddich ‘The Perpetual Collection’ pop-up](https://citynomads.com/events/glenfiddich-the-perpetual-collection-pop-up-at-changi-airport-t1/)|Terminal 1, Changi Airport|Free|
-|2 Oct|Music|[Rudimental](https://www.mandalaweekender.com/)|Mandala Club|$148|
-|2 Oct|Music|[Basement Jaxx](https://www.mandalaweekender.com/)|Mandala Club|$148|
 |7 Oct|Children; Family|[PIP PIP Hooray!](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2022/octoburst/pip-pip-hooray)|Esplanade|Free|
+|:-|:-|:-|:-|:-|
 |7 Oct|Family|[The Amazing Family Race - Beyond the Label Fest 2022](https://www.eventbrite.sg/e/the-amazing-family-race-beyond-the-label-fest-2022-tickets-420046649837?aff=ebdssbdestsearch)|Gardens By the Bay|Free|
 |8 Oct|Nature; Workshop|[Hanging Floral Sphere Workshop](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/2022-cib-hanging-floral-sphere-workshop.html)|Gardens By the Bay|$65|
 |8 Oct|Music|[Q Sound @ The Jazz Loft](https://www.eventbrite.sg/e/q-sound-the-jazz-loft-tickets-420145044137?aff=ebdssbdestsearch)|Blu Jaz|$24.12|
