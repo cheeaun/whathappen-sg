@@ -10,7 +10,7 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 |Daily|Workshop|[Love Atelier Couples Perfume Workshop](https://feverup.com/m/101463?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|various Maison 21G stores|From $360|
 |:-|:-|:-|:-|:-|
 |9 Feb|Workshop|[Pamper Your Loved One](https://allevents.in/singapore/valentines-day-pamper-your-loved-one/10000517165224107)|Captiol Piazza|$120|
-|11 Feb|Wellness|[Eco-Wellness at Gallop Extension](https://allevents.in/singapore/valentine%E2%80%99s-day-special-eco-wellness-at-gallop-extension-sbg/200023892087247)|Gallop Extension (SBG)|$33|
+|11 Feb|Wellness|[Eco-Wellness at Gallop Extension](https://www.eventbrite.sg/e/valentines-day-special-eco-wellness-at-gallop-extension-sbg-tickets-507010992527?aff=ALLEVENTS)|Gallop Extension (SBG)|$33|
 |11 Feb|Social|[POP UP! CLUB - LOVE BITES 2023](https://allevents.in/singapore/pop-up-club-love-bites-2023-pre-vday-party-for-everybody/10000511568012697)|Levant Singapore|From $20|
 |11 Feb|Workshop|[How to Date Successfully this Valentine's Day](https://allevents.in/singapore/how-to-date-successfully-this-valentines-day-%7C-a-singles-event/10000479198344147)|Arabic Council|SGD39.80|
 |11 Feb|Music|[ROSES 2023](https://www.eventbrite.sg/e/roses-2023-tickets-498834125297?aff=ebdssbdestsearch&keep_tld=1)|Esplanade|From $32.52|
@@ -26,6 +26,7 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 |Weekends|Nature; Family|[Bees, Ants and Worms Encounter on The Sundowner Rooftop](https://feverup.com/m/116118?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|The Sundowner Farm & Lounge|From $65|
 |:-|:-|:-|:-|:-|
 |Tues - Sun|Adventure; 18+|[Beer 'n' Axe Throwing session](https://feverup.com/m/103043?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|Axe Factor Singapore|From $40|
+|Till 14 Feb|Sports; Adventure|[Tranquil Round Ketam Kayaking at Pulau Ubin](https://feverup.com/m/120741?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|Asian Detours Jalan Endut Senin 34, Singapore|From $90.95|
 |Till 26 Feb|Health; Exhibition|[MENTAL: Colours of Wellbeing](https://www.marinabaysands.com/museum/exhibitions/mental.html)|ArtScience Museum|$18|
 |Till 26 Feb|Nature|[Dahlia Dreams](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/dahlia-dreams-2023.html)|Gardens By The Bay|$12|
 |Till 1 Mar|Adventure|[UBIN Bike Trail: The Real Thrill](https://feverup.com/m/118327?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|Asian Detours Ubin HQ|From $69.55|
@@ -37,14 +38,8 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 
 ### Upcoming Events
 
-|1 Feb|Music|[Cigarettes After Sex](https://www.sistic.com.sg/events/ciga0223)|Capitol Theatre|$108|
-|:-|:-|:-|:-|:-|
-|1 - 14 Feb|Sports; Adventure|[Tranquil Round Ketam Kayaking at Pulau Ubin](https://feverup.com/m/120741?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|Asian Detours Jalan Endut Senin 34, Singapore|From $90.95|
-|3 - 4 Feb|Festival|[Chingay](https://www.chingay.gov.sg/)|F1 Pit Building|From $20|
-|5 Feb|Music|[Asian Drag Invasion](https://www.sistic.com.sg/events/asiandrag0223)|Esplanade|From $98|
-|5 Feb|Musical|[Disney's Frozen The Hit Broadway Musical](https://www.sistic.com.sg/events/frozen0323)|Sands Theatre|From $88|
-|5 Feb|Music|[Stray Kids 2nd World Tour](https://ticketmaster.sg/activity/detail/23_straykids)|Singapore Indoor Stadium|From $168|
 |7 Feb|Film|[Monthly Movie Screening - February](https://www.eventbrite.sg/e/monthly-movie-screening-february-tickets-504262481657?aff=ebdssbdestsearch)|Esplanade|Free|
+|:-|:-|:-|:-|:-|
 |7 Feb - 2 Apr|Food|[Chatuchak Night Market Singapore](https://www.timeout.com/singapore/shopping/chatuchak-night-market-singapore)|The Grandstand|Free Entry|
 |9 Feb|Music|[Blue 20th Anniversary](https://www.sistic.com.sg/events/blue0223)|Mediacorp|From $128|
 |10 Feb|Dance|[Bachata Corazon Festival 2023](https://www.eventbrite.sg/e/bachata-corazon-festival-2023-tickets-402346147157?aff=ebdssbdestsearch)|SCAPE|From $41.95|
