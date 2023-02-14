@@ -18,7 +18,7 @@ const r = new snoowrap({
 });
 
 const results = await r.getSubreddit('singapore').search({
-  query: `what's happening in`,
+  query: `what's happening flair:news`,
   time: 'month',
   sort: 'relevance',
 });
