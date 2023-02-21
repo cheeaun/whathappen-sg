@@ -26,7 +26,6 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 |Weekends|Nature; Family|[Bees, Ants and Worms Encounter on The Sundowner Rooftop](https://feverup.com/m/116118?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|The Sundowner Farm & Lounge|From $65|
 |:-|:-|:-|:-|:-|
 |Tues - Sun|Adventure; 18+|[Beer 'n' Axe Throwing session](https://feverup.com/m/103043?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|Axe Factor Singapore|From $40|
-|Till 14 Feb|Sports; Adventure|[Tranquil Round Ketam Kayaking at Pulau Ubin](https://feverup.com/m/120741?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|Asian Detours Jalan Endut Senin 34, Singapore|From $90.95|
 |Till 26 Feb|Health; Exhibition|[MENTAL: Colours of Wellbeing](https://www.marinabaysands.com/museum/exhibitions/mental.html)|ArtScience Museum|$18|
 |Till 26 Feb|Nature|[Dahlia Dreams](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/dahlia-dreams-2023.html)|Gardens By The Bay|$12|
 |Till 1 Mar|Adventure|[UBIN Bike Trail: The Real Thrill](https://feverup.com/m/118327?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|Asian Detours Ubin HQ|From $69.55|
@@ -38,18 +37,8 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 
 ### Upcoming Events
 
-|7 Feb|Film|[Monthly Movie Screening - February](https://www.eventbrite.sg/e/monthly-movie-screening-february-tickets-504262481657?aff=ebdssbdestsearch)|Esplanade|Free|
-|:-|:-|:-|:-|:-|
-|7 Feb - 2 Apr|Food|[Chatuchak Night Market Singapore](https://www.timeout.com/singapore/shopping/chatuchak-night-market-singapore)|The Grandstand|Free Entry|
-|9 Feb|Music|[Blue 20th Anniversary](https://www.sistic.com.sg/events/blue0223)|Mediacorp|From $128|
-|10 Feb|Dance|[Bachata Corazon Festival 2023](https://www.eventbrite.sg/e/bachata-corazon-festival-2023-tickets-402346147157?aff=ebdssbdestsearch)|SCAPE|From $41.95|
-|10 Feb - 16 Apr|Festival|[29Rooms Singapore](https://29rooms.sg/)|Gardens By The Bay|From $20|
-|11 Feb|Music|[Gershwin’s Piano Concerto](https://www.sistic.com.sg/events/230061SSO)|Esplanade|From $15\`|
-|16 Feb|Music|[2023 Maksim - The Collection Asia Tour](https://www.sistic.com.sg/events/maksim0223)|Esplanade|From $88|
-|16 Feb|Music|[Red Hot Chilli Peppers](https://ticketmaster.sg/activity/detail/23_rhcp)|National Stadium|From $138|
-|16 - 18 Feb|Music|[Westlife The Wild Dreams Tour](https://ticketmaster.sg/activity/detail/23_westlife)|Singapore Indoor Stadium|From $128|
-|17 - 18  Feb|Music; Orchestra|[Harry Potter and the Order of the Phoenix in Concert](https://www.sistic.com.sg/events/harry0223)|Esplanade|From $79|
 |21 Feb|Music|[FINAL FANTASY Piano Concert](https://www.esplanade.com/whats-on/2022/crystal-resonance-final-fantasy-piano-concert)|Esplanade|From $65|
+|:-|:-|:-|:-|:-|
 |21 - 25 Feb|Music|[The Alex Blake Charlie Sessions](https://24owls.sg/programmes/the-alex-blake-charlie-sessions-2023)|Kent Ridge|$35|
 |22 Feb|Music|[Backstreet Boys: DNA World Tour](https://ticketmaster.sg/activity/detail/23_bsb)|Singapore Indoor Stadium|From $168|
 |24 Feb|Theatre|[LIVING WITH LUCY - A Journey with Dementia](https://www.sistic.com.sg/events/lucy0223)|Drama Centre Theatre|From $48|
