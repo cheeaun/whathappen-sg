@@ -3,64 +3,63 @@
 This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content from [/r/singapore subreddit](https://www.reddit.com/r/singapore/).
 
 <!-- START HAPPENING -->
-## What's Happening in March 2023? ([thread](https://www.reddit.com/r/singapore/comments/116wbg2/whats_happening_in_march_2023/))
-
-### St Patrick's Events
-
-|Mar 17|[Friday Rooftop Special](https://www.eventbrite.sg/e/friday-rooftop-special-st-patricks-day-tickets-547558260497?aff=ebdssbdestsearch&keep_tld=1)|Grand Park City Hall|From $15|
-|:-|:-|:-|:-|
-|Mar 17-19|[St Pat's Festical](https://singapore-river.sg/stpatsday2023/)|Circular Road|Free Entry|
-
-&#x200B;
+## What's Happening In April 2023? ([thread](https://www.reddit.com/r/singapore/comments/125iuuu/whats_happening_in_april_2023/))
 
 ### Ongoing Events
 
-|Weekends|Nature; Family|[Bees, Ants and Worms Encounter on The Sundowner Rooftop](https://feverup.com/m/116118?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|The Sundowner Farm & Lounge|From $65|
+|31st Mar - 2 Apr|Culture|[Ukrainian Culture and Fashion Fest](https://www.eventbrite.sg/e/ukrainian-culture-and-fashion-fest-tickets-556595621487?aff=ebdssbdestsearch)|Hollandse Club|From $6.50|
 |:-|:-|:-|:-|:-|
+|31st Mar - 16 Apr|Automobile|[Audi: House of Progress Singapore](https://www.audi.com.sg/sg/web/en/models/weekly_promotions/hop-2023.html)|Artscience Museum|Free|
 |Till 31 Mar|Nature|[Avatar: The Experience](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/cloud-forest-featuring-avatar-the-experience.html)|Gardens By The Bay|$12|
+|Till 9 Apr|Nature|[Sakura](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/sakura-2023.html)|Gardens By The Bay|$12|
+|Till 10 Apr|Movie|[Transformers: Rise Of The Beasts Statues World Tour](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/Transformers-Rise-Of-The-Beasts-Statues-World-Tour.html)|Gardens By The Bay|Free|
 |Till 16 Apr|Immersive|[29Rooms Singapore](https://29rooms.sg/)|Gardens By The Bay|From $35|
 |Till 20 Apr|VR|[The Line](https://www.marinabaysands.com/museum/exhibitions/the-line.html)|Art Science Museum|$16|
+|Till 29 Apr|Music|[ABSURDITIES](https://www.sistic.com.sg/events/abs0323)|TBC|From $376 for 2|
 |Till 7 May|Art|[Dimensions](https://www.esplanade.com/whats-on/festivals-and-series/series/visual-arts/dimensions)|Esplanade|Free|
 |Till 7 May|Art|[Land-scape](https://www.esplanade.com/whats-on/festivals-and-series/series/visual-arts/land-scape)|Esplanade|Free|
 
 ### Upcoming Events
 
-|Weekends|Nature|[Joo Chiat Farmer's Market](https://www.eventbrite.sg/e/joo-chiat-farmers-market-tickets-524597464137?aff=ebdssbdestsearch)|Joo Chiat|Free|
-|:-|:-|:-|:-|:-|
-|Sundays|Sport; Alcohol|[SoleMates Beer Run](https://www.eventbrite.sg/e/solemates-beer-run-tickets-430814827747?aff=ebdssbdestsearch)|Marina Bay|From $38|
-|From 1st Mar|Art|[Van Gogh: The Immersive Experience](https://vangoghexpo.com/singapore/)|Resorts World Sentosa|From $29|
-|14 Mar|Music|[THE PIANO GUYS LIVE IN SINGAPORE](https://www.thestar.sg/event/piano-guys-live-singapore/)|The Star Theatre|From $88|
-|16 Mar|Music|[Saosin Live in Singapore 2023](https://www.eventbrite.sg/e/saosin-live-in-singapore-2023-tickets-533452218947?aff=ebdssbdestsearch)|Scape|From $82.21|
-|16 - 19 Mar|F&B|[Food & Beverage Fair](https://www.eventbrite.sg/e/food-beverage-fair-16-19-march-2023-singapore-expo-hall-6-tickets-517368341637?aff=ebdssbdestsearch)|Singapore Expo Hall|Free Admission|
-|17 Mar|Music|[Harry Styles: Love On Tour 2023](https://ticketmaster.sg/activity/detail/23_harrystyles)|Singapore National Stadium|From $138|
-|17 Mar|Movie|[Movies By The Beach: Percy Jackson & The Olympians](https://www.sentosa.com.sg/en/things-to-do/events/movies-by-the-beach)|Sentosa|Free Entry; Pre-booking required|
-|18 Mar|Movie|[Movies By The Beach: Percy Jackson: Sea of Monsters](https://www.sentosa.com.sg/en/things-to-do/events/movies-by-the-beach)|Sentosa|Free Entry; Pre-booking required|
-|17 Mar|Music|[Trivium Live in Singapore](https://www.sistic.com.sg/events/trivium0323)|Hard Rock Hotel Sentosa|From $158|
-|17 Mar|Comedy|[Masala Sandwich with Amit Tandon](https://ticketmaster.sg/activity/detail/23_msandwich#prices)|NTUC Centre|From $65|
-|19 Mar|Music|[Tribute to Studio Ghibli](https://www.eventbrite.sg/e/tribute-to-studio-ghibli-a-selection-of-joe-hisaishis-music-tickets-456664805727?aff=ebdssbdestsearch)|Lion Studios|From $100.45|
-|18 - 19 Mar|Music|[More than Music 10th Anniversary](https://www.esplanade.com/whats-on/2023/more-than-music-10th-anniversary)|Esplanade|From $20|
-|20 Mar|Music|[Maisie Peters](https://ticketmaster.sg/activity/detail/23_maisiepeters)|Capitol Theatre|From $58|
-|22 Mar|Music|[STING](https://ticketmaster.sg/activity/detail/23_sting#prices)|Star Theatre|From $128|
-|22 Mar|Music|[SUM 41 Live in Singapore](https://www.sistic.com.sg/events/sum0323)|Hard Rock Hotel Sentosa|From $138|
-|23 Mar|Comedy|[Daniel Sloss "Can't" - Live in Singapore](https://www.sistic.com.sg/events/daniel0323)|The Theatre|From $98|
-|24 Mar|Music|[Nachtmusik: A Night of Serenade Music by Kotaro Fukuma](https://ticketmaster.sg/activity/detail/23_nachtmusik)|Victoria Concert Hall|From $28|
-|24 - 25 Mar|Comedy|[Queens of Asia Comedy Show](https://feverup.com/m/122378?utm_campaign=123302_sin&utm_medium=website_10541&utm_source=partner)|Projector X:|From $60|
-|24 - 26 Mar|Music|[Drum Tao : The Light](https://www.esplanade.com/whats-on/2023/drum-tao-the-light)|Esplanade|From $68|
-|25 Mar|Sport|[ONE Fight Night 8: Bhullar vs. Malykhin](https://ticketmaster.sg/activity/detail/23_onemar25)|Singapore Indoor Stadium|From $38|
-|25 Mar|Music|[Kachun Wong and Daniel Lozakovich](https://www.esplanade.com/whats-on/2023/kachun-wong-and-daniel-lozakovich)|Esplanade|From $10.50|
-|29 Mar|Music|[Doobie Brothers 50th Anniversary Tour](https://www.thestar.sg/event/doobie-brothers-50th-anniversary-tour-rating-tbc/)|The Star Theatre|From $98|
-|29 Mar - 2 Apr|Sport|[FIBA 3x3 Asia Cup 2023](https://www.sistic.com.sg/events/fiba0323)|OCBC Square|From $10|
-|31 Mar|Theatre|[The Monkey King Legend](https://www.sistic.com.sg/events/sun0323)|SCCC Far East Organization Auditorium|From $28|
-|31 Mar|Music|[Kenny G 'Live' in Concert](https://www.sistic.com.sg/events/kennyg0323)|Sands Theatre|From $88|
-|31 May|Cause|[ADEX OCEAN MISSION 2023-Dedicated to Ocean Arts & Science with Women Divers](https://www.eventbrite.sg/e/adex-ocean-mission-2023-dedicated-to-ocean-arts-science-with-women-divers-tickets-426946798367?aff=ebdssbdestsearch)|Sands Expo|$50|
 |1 - 2 Apr|Shopping|[Sneaker Con SEA](https://www.sistic.com.sg/events/sneakercon0423?cid=o4x-hmfe-sneakercon0423)|Singapore Expo Hall 5|From $42|
+|:-|:-|:-|:-|:-|
+|1 - 2 Apr|Theatre|[No Particular Order](https://www.esplanade.com/whats-on/festivals-and-series/series/trip/no-particular-order)|Esplanade|From $23|
+|2 Apr|Music|[Jim Gaffigan](https://ticketmaster.sg/activity/detail/23_jimgaffigan)|The Theatre at Mediacorp|From $98|
 |4 Apr|Music|[Rupi Kaur - Live in Singapore](https://www.sistic.com.sg/events/rupi0423)|Esplanade Theatre|From $98|
+|6 Apr|Music|[Piano Recital by Lilya Zilberstein](https://www.sistic.com.sg/events/zilberstein0423)|Victoria Concert Hall|From $25|
+|8 Apr|Festival|\[Cosfest: Legend of the|||
+|Floral Guardian\]([https://cosfest2023-tickets.peatix.com/](https://cosfest2023-tickets.peatix.com/))|Gardens By The Bay|From $23|||
+|8 Apr|Club|[Psy And Rain](https://marqueesingapore.com/event/marquee-4th-anniversary-weekender-psy-and-rain/)|Marquee|From $80|
 |8 - 9 Apr|Sport|[HSBC Singapore Rugby Sevens 2023](https://singapore7s.ticketmaster.sg/activity/detail/23_sgrugby7s#prices)|National Stadium|From $69|
+|8 - 9 Apr|Club|[Timmy Trumpet](https://marqueesingapore.com/event/marquee-4th-anniversary-weekender-timmy-trumpet-eve-of-ph/)|Marquee|From $70|
+|14 Apr|Books|[Singapore Art Book Fair 2023](https://www.eventbrite.sg/e/singapore-art-book-fair-2023-tickets-572573481697?aff=ebdssbdestsearch)|Singapore Art Museum|From $6|
+|14 - 15 Apr|Dance|[A Space for EveryBody](https://sgstudiosuite.songzu.com/fmi/webd/Studio_Suite_12_SongZu)|Esplanade|Free|
+|15 Apr|Club|[Sebastian Ingrosso](https://marqueesingapore.com/event/marquee-presents-sebastian-ingrosso/)|Marquee|From $70|
+|19 Apr|Music|[LIV Golf: The Chainsmokers](https://ticketmaster.sg/activity/detail/23_chainsmokers)|Sentosa|$128|
+|20 Apr|Alcohol|[WINE DISCOVERY \~ ITALIAN WINE](https://www.eventbrite.sg/e/wine-discovery-italian-wine-thur-20-april-2023-630-830pm-tickets-584225513237?aff=ebdssbdestsearch)|Bukit Merah|$40|
+|21 Apr|Club|[Yellow Claw](https://marqueesingapore.com/event/marquee-presents-yellow-claw/)|Marquee|From $60|
+|21 Apr - 21 May|Nature|[Tulipmania: Its Wild Origins](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/tulipmania-2023.html)|Gardens By The Bay|$12|
+|22 - 23 Apr|Workshop|[Get Crafty! – Tulips of the Future by School of Concepts](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/get-crafty-tulips-of-the-future-by-school-of-concepts.html)|Gardens By The Bay|$15|
+|23 Apr|Music|[Messiah - G. F. Handel](https://www.sistic.com.sg/events/handel0423)|Victoria Concert Hall|From $30|
 |27 Apr|Music|[Louis Tomlinson: Faith In The Future World Tour 2023](https://ticketmaster.sg/activity/detail/23_louis)|The Star Theatre|From $98|
+|28 Apr|Club|[James Hype](https://marqueesingapore.com/event/marquee-presents-james-hype/)|Marquee|From $40|
+|29 Apr - 4 May|Sports|[Citi Para Swimming World Series Singapore 2023](https://www.sistic.com.sg/events/swimming0423?cid=sdsc-hmfe-swimming0423)|OCBC Aquatic Centre|From $10|
+|29 Apr|Club|[China Hip-Hop Power Live](https://marqueesingapore.com/event/marquee-presents-china-hip-hop-power-live/)|Marquee|From $140|
+||||||
+|3 - 14 May|Theatre|[Shakespeare in the Park - A Midsummer Night's Dream](https://www.sistic.com.sg/events/dream0523?cid=srt-hmfe-dream0523)|Fort Canning Park|From $60|
 |5 May|Music|[SSO Gala: Kings & Queens of Opera](https://www.esplanade.com/whats-on/2023/sso-gala-kings-and-queens-of-opera)|Esplanade|From $18.75|
+|5 - 6 May|Dance|[BALLET REVOLUCIÓN](https://www.marinabaysands.com/entertainment/shows/ballet-revolucion.html)|Sands Theatres|From $58|
+|10 - 21 May|Circus|[SHAUN THE SHEEP’S CIRCUS SHOW](https://www.marinabaysands.com/entertainment/shows/shaun-the-sheep-circus-show.html)|Sands Theatre|From $45|
+|13 May|Music|[Paul Anka](https://ticketmaster.sg/activity/detail/23_paulanka)|The Star Theatre|From $98|
+|13 May|Music|[BLACKPINK](https://ticketmaster.sg/activity/detail/23_blackpink)|National Stadium|From $168|
+|14 May|Music|[SSO MOTHER’S DAY CONCERT](https://www.sso.org.sg/free-concerts/sso-mothers-day-concert)|Botanic Gardens|Free|
+|19 May|Nature|[Love the Last March](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/love-the-last-march.html)|Gardens By The Bay||
 |23 May|Music|[CONOR MAYNARD: CONTINUED PART II 2023 WORLD TOUR](https://ticketmaster.sg/activity/detail/23_conormaynard)|Capitol Theatre|From $108|
+|26 May - 4th June|Science|[THE ELECTRIFIED SHOW](https://www.sistic.com.sg/events/elec0623?cid=sciencecentre-hmfe-elec0623)|Science Centre Singapore|From $38|
+|6 - 11 June|Sports|[Singapore Badminton Open 2023](https://ticketmaster.sg/activity/detail/23_sgopen2023)|Singapore Indoor Stadium|From $30|
 |6 - 23 July|Comedy; Advisory16|[Kumar Guilty](https://www.sistic.com.sg/events/kumar0723)|Sands Theatre|From $58|
 |7 July|Comedy; M18|[Dr Jason Leong : BRAIN DRAIN WORLD TOUR 2023](https://ticketmaster.sg/activity/detail/23_braindrain23)|Esplanade Theatre|From $40|
+|18 - 19 July|Music|[THE 1975: AT THEIR VERY BEST TOUR](https://www.marinabaysands.com/entertainment/shows/the-1975-at-their-very-best-tour.html)|Sands Theatre|$128|
 
 &#x200B;
 <!-- END HAPPENING -->
