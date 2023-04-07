@@ -20,8 +20,7 @@
 |2 Apr|Music|[Jim Gaffigan](https://ticketmaster.sg/activity/detail/23_jimgaffigan)|The Theatre at Mediacorp|From $98|
 |4 Apr|Music|[Rupi Kaur - Live in Singapore](https://www.sistic.com.sg/events/rupi0423)|Esplanade Theatre|From $98|
 |6 Apr|Music|[Piano Recital by Lilya Zilberstein](https://www.sistic.com.sg/events/zilberstein0423)|Victoria Concert Hall|From $25|
-|8 Apr|Festival|\[Cosfest: Legend of the|||
-|Floral Guardian\]([https://cosfest2023-tickets.peatix.com/](https://cosfest2023-tickets.peatix.com/))|Gardens By The Bay|From $23|||
+|8 Apr|Festival|[Cosfest: Legend of the Floral Guardian](https://cosfest2023-tickets.peatix.com/)|Gardens By The Bay|From $23|
 |8 Apr|Club|[Psy And Rain](https://marqueesingapore.com/event/marquee-4th-anniversary-weekender-psy-and-rain/)|Marquee|From $80|
 |8 - 9 Apr|Sport|[HSBC Singapore Rugby Sevens 2023](https://singapore7s.ticketmaster.sg/activity/detail/23_sgrugby7s#prices)|National Stadium|From $69|
 |8 - 9 Apr|Club|[Timmy Trumpet](https://marqueesingapore.com/event/marquee-4th-anniversary-weekender-timmy-trumpet-eve-of-ph/)|Marquee|From $70|
