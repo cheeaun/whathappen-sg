@@ -54,7 +54,7 @@
 |16 - 24 Sept|Art & Science|[COMICS ART & SCI FI EXPO](https://www.science.edu.sg/whats-on/comics-art-and-sci-fi-expo/comics-art-sci-fi-expo)|Science Centre|From $15|
 |17 Sept|Concert|[Robbie Williams](https://singaporegp.sg/en/entertainment/2023-entertainment-line-up)|Padang Stage|From $128|
 |21 Sept - 8 Oct|Theatre|[& JULIET](https://www.marinabaysands.com/entertainment/shows/juliet.html)|Sands Theatre|From $68|
-|22 Sept|Club|[Cosmic Gate](https://marqueesingapore.com/event/marquee-presents-cosmic-gate-2/)|Marquee From |From $20|
+|22 Sept|Club|[Cosmic Gate](https://marqueesingapore.com/event/marquee-presents-cosmic-gate-2/)|Marquee From|From $20|
 |23 - 24 Sept|Art; Workshop|[Get Crafty! – Rabbit Lanterns](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/get-crafty-rabbit-lanterns-by-happy-hands-can.html)|Gardens By The Bay|$27|
 |28 Sept - 7 Oct|Musical|[Romeo & Juliet](https://www.sistic.com.sg/events/romeo1023?cid=abaproductions-hmrtb-romeo1023)|Victoria Theatre|From $68|
 |29 Sept|Halloween|[Universal Studios Singapore Halloween Horror Nights 11](https://www.sentosa.com.sg/en/things-to-do/events/uss-halloween-horror-nights-11/)|Sentosa|From $79|
@@ -63,8 +63,7 @@
 |30 Sept|Club|[Nicky Romero](https://marqueesingapore.com/event/marquee-presents-nicky-romero/)|Marquee|From $20|
 |13 - 14 Oct|Music|[Dvořák and Tchaikovsky – Hans Graf and Leonidas Kavakos](https://www.sso.org.sg/whats-on/sso-gala-dvorak-tchaikovsky-hans-graf-leonidas-kavakos)|Victoria Concert Hall|From $25|
 |19 Oct - 5 Nov|Musical|[MAMMA MIA!](https://www.marinabaysands.com/entertainment/shows/mamma-mia.html)|Sands Theatre|From $68|
-|28 Oct|Sport|[Race for Good by
-The Salvation Army](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/race-for-good-by-the-salvation-army.html)|Gardens By The Bay|$70|
+|28 Oct|Sport|[Race for Good by The Salvation Army](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/race-for-good-by-the-salvation-army.html)|Gardens By The Bay|$70|
 |1 Dec|Club|[Marshmello](https://marqueesingapore.com/event/marquee-presents-marshmello/)|Marquee|From $80|
 |2 Dec - 10 Dec|Sport|[14th Women’s World Floorball Championships 2023](https://www.sistic.com.sg/events/wfc2023?cid=hmrtb-wfc2023)|Various|From $15|
 
