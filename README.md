@@ -13,7 +13,7 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 |:-|:-|:-|:-|
 |Various Dates|[Curse of the Foresaken Trail: Halloween hunt at Fort Canning](https://allevents.in/singapore/curse-of-the-foresaken-trail-halloween-hunt-at-fort-canning/10000720967512237)|Fort Canning|From 30|
 |6 Sept - 5 Nov|[Trick or Thrills](https://www.rwsentosa.com/en/promotions/attractions/trick-or-thrills)|Resorts World Sentosa|Various|
-|29 Sept -4 Nov |[Halloween Horror Nights](https://www.rwsentosa.com/en/promotions/attractions/hhn11)|Universal Studios|From $79|
+|29 Sept -4 Nov|[Halloween Horror Nights](https://www.rwsentosa.com/en/promotions/attractions/hhn11)|Universal Studios|From $79|
 |13 - 14 Oct|[SAFRA Punggol Presents: The Island Rescue](https://www.safra.sg/whats-on/safra-punggol-pororo-halloween?utm_source=ByKidO&utm_medium=cpc&utm_campaign=PG_Halloween_2023&utm_id=PG_Halloween_2023_ByKidO_Listicle)|Punggol|From $4|
 |20 - 31 Oct|[Halloween Night - Saints & Sinners at The Secret Haven](https://allevents.in/singapore/halloween-night-saints-and-sinners-at-the-secret-haven/10000704509967277)|Mount Sophia|From $110|
 |26 - 29 Oct|[Halloween Scream Fest](https://www.downtowneast.com.sg/whats-on/events/details/halloween-scream-fest-2023)|Downtown East|$48|
@@ -56,14 +56,14 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 |:-|:-|:-|:-|:-|
 |30 Sept - 1 Oct|Music|[Rhythm of Mongolia](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/rhythm-of-mongolia.html)|Gardens By The Bay|Free|
 |1 Oct|Music|[FUR (UK)](https://www.esplanade.com/whats-on/festivals-and-series/series/2023/mosaic-music-series/fur)|Esplanade|From $67.50|
-|5 Oct|Music|[Heroic Tales of Richard Strauss](https://www.esplanade.com/whats-on/2023/heroic-tales-of-richard-strauss)|Esplanade |From $15|
+|5 Oct|Music|[Heroic Tales of Richard Strauss](https://www.esplanade.com/whats-on/2023/heroic-tales-of-richard-strauss)|Esplanade|From $15|
 |6-8 Oct|Music|[Baybeats 2023](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2023/baybeats)|Esplanade|Various|
 |6-8 Oct|Musical|[Musical Tales of Little-Known Tails](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2023/octoburst/musical-tales-of-little-known-tails)|Esplanade|Free|
 |6 Oct|Music|[JADE EYES (Taiwan)](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2023/baybeats/line-up/jade-eyes)|Esplanade|Free|
 |6 Oct|Music|[MASS OF THE FERMENTING DREGS (Japan)](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2023/baybeats/line-up/mass-of-the-fermenting-dregs)|Esplanade|Free|
 |6 Oct|Music|[Delta Sleep (UK)](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2023/baybeats/line-up/delta-sleep)|Esplanade|Free|
 |8 Oct|Music|[Holy Serpent (AUS)](https://www.esplanade.com/whats-on/festivals-and-series/festivals/2023/baybeats/line-up/holy-serpent)|Esplanade|Free|
-| 4 Nov|Health|[Happy Me Happy You](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/Happy-Me-Happy-You.html)|Gardens By The Bay|$5|
+|4 Nov|Health|[Happy Me Happy You](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/Happy-Me-Happy-You.html)|Gardens By The Bay|$5|
 |13 - 14 Oct|Music|[Dvořák and Tchaikovsky – Hans Graf and Leonidas Kavakos](https://www.sso.org.sg/whats-on/sso-gala-dvorak-tchaikovsky-hans-graf-leonidas-kavakos)|Victoria Concert Hall|From $25|
 |13 - 15 Oct|Dance|[Singapore Flamenco Festival 2023 \[G\]](https://www.sistic.com.sg/events/flamenco1023)|Esplanade|From $38|
 |13 - 15 Oct|Dance; AR|[Mali Bucha: Dance Offering](https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/mali-bucha-dance-offering)|Esplanade|From $24|
@@ -72,6 +72,7 @@ This page scrapes the latest "What's Happening in `MONTH` `YEAR`" thread content
 |From 18 Oct|Family|[The Cat in the Hat](https://www.sistic.com.sg/events/cat1123)|KC Arts Centre|From $27|
 |19 Oct - 5 Nov|Musical|[MAMMA MIA!](https://www.marinabaysands.com/entertainment/shows/mamma-mia.html)|Sands Theatre|From $68|
 |19 Oct|Music|[Piano Recital by Lukas Geniušas: Schubert & Rachmaninoff](https://www.sistic.com.sg/events/lukas1023)|Victoria Concert Hall|From $28|
+|19 - 22 Oct|Games|[gamescom asia 2023](https://www.gamescom.asia)|Suntec Convention Centre|From $19|
 |20 - 22 Oct|Nature|[Planters Market](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/planters-market-at-gardens-by-the-bay.html)|Gardens By The Bay|Free|
 |20 Oct|Music|[Bennett Violin Concerto and Tchaikovsky 4](https://www.esplanade.com/whats-on/2023/bennett-violin-concerto-and-tchaikovsky-4)|Esplanade|From $15|
 |21 Oct|Music|[Blue Note Tokyo All-Star Jazz Orchestra](https://www.esplanade.com/whats-on/festivals-and-series/series/2023/mosaic-music-series/blue-note-tokyo-all-star-jazz-orchestra)|Esplanade|From $39|
