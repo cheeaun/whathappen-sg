@@ -23,6 +23,7 @@
 |5 Apr|Food|[Taste of Taiwan](https://www.eventbrite.sg/e/taste-of-taiwan-returns-prime-buangkok-5th-7th-april-2024-tickets-863440021347?aff=ebdssbdestsearch)|Buangkok|Free|
 |6 Apr|Nature|[Sensory Moments – Sakura](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/sensory-moments-sakura.html)|Gardens By The Bay|Free|
 |6 Apr|Nature|[The Plantsman's Fair](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/plantsman-fair-apr-2024.html)|Gardens By The Bay|Free Entry|
+|6 - 7 Apr|Audio|[Canjam Singapore](https://canjamglobal.com/shows/singapore2024/)|Pan Pacific|From $30|
 |6 - 7 Apr|Culture|[Japanese Cultural Programmes](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/japanese-cultural-programmes-2024.html)|Gardens By The Bay|Free|
 |6 Apr - 11 Aug|Exhibition|[Goddess: Brave. Bold. Beautiful](https://www.marinabaysands.com/museum/exhibitions/goddess.html)|Art Science Museum|From $20|
 |9 Apr - 5 May|Nature|[Azaleas of Shangri-La](https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/azaleas-of-shangri-la.html)|Gardens By The Bay|$12|
